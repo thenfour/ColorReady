@@ -1,0 +1,20 @@
+vertical
+{
+	{	}(50%);
+	{
+		(5);
+		*m_ok(100px);
+		(5);
+		*m_group(100px);
+		(5);
+		*m_exit(flex);
+		(5);
+	};
+};
+
+horizontal
+{
+  *m_group,
+  m_exit,
+  m_ok;
+};

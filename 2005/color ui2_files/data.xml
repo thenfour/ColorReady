@@ -1,0 +1,2936 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Color Tab" NameU="Color Tab">
+			<Shapes>
+				<Shape ID="1" UniqueID="{B983D0B7-CF6E-49DC-85CF-685E8E65346E}" Name="Blank form" NameU="Blank form" Master="2">
+					<Text>Easy Palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.562500000000000</PinX>
+						<PinY Unit="IN_F">7.875000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="111" UniqueID="{3EC77197-9F48-42B8-AFFF-6D10A6CA364C}" Name="Tab control (tabs).111" NameU="Tab control (tabs).111" Master="7">
+					<Text>Schemes</Text>
+					<XForm>
+						<PinX Unit="IN">1.792030367490233</PinX>
+						<PinY Unit="IN">10.187500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="117" UniqueID="{B6FAE9D7-4355-444C-8084-2D7AD7DA80E8}" Name="Tab control (body)" NameU="Tab control (body)" Master="8">
+					<XForm>
+						<PinX Unit="IN_F">1.953125000000000</PinX>
+						<PinY Unit="IN_F">8.046875000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{A80CFAE6-CB69-4B7C-9D92-5A0DC9D0B129}" Name="Circle" NameU="Circle" Master="3">
+					<XForm>
+						<PinX Unit="IN_F">1.515625000000000</PinX>
+						<PinY Unit="IN_F">8.671875000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{4900B130-E085-490B-A8BE-D1978A736BBA}" Name="Slider (vertical)" NameU="Slider (vertical)" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">2.628750000006402</PinX>
+						<PinY Unit="IN_F">8.375000000050328</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="41" UniqueID="{82801060-1D21-4ABE-BD00-E3A6803EDC24}" Name="Slider (vertical).41" NameU="Slider (vertical).41" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">2.941250000198501</PinX>
+						<PinY Unit="IN_F">8.375000000050328</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="105" UniqueID="{E6F0BBFF-2101-431E-9EA5-DE7320940BE6}" Name="Tab control (tabs)" NameU="Tab control (tabs)" Master="7">
+					<Text>Color</Text>
+					<XForm>
+						<PinX Unit="IN">0.630252280163086</PinX>
+						<PinY Unit="IN_F">10.187500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="124" UniqueID="{35ADBAAE-AE94-490D-9FEE-415482AA8B2C}" Name="Tab control (tabs).124" NameU="Tab control (tabs).124" Master="7">
+					<Text>Palette</Text>
+					<XForm>
+						<PinX Unit="IN">2.352843613119138</PinX>
+						<PinY Unit="IN">10.187500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="103" UniqueID="{762E228F-9718-4F71-AB1B-EADF375DCF00}" Name="Text box (single-line)" NameU="Text box (single-line)" Master="11">
+					<Text>Enter Text</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.406250000000000</PinX>
+						<PinY Unit="IN_F">10.006250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="131" UniqueID="{D4268DFC-8F3F-44A6-869A-2C99EC6BD84C}" Name="Combo box" NameU="Combo box" Master="12">
+					<Text>RGB</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.406250000000000</PinX>
+						<PinY Unit="IN_F">9.770000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="104" UniqueID="{5BEBE6FE-A93B-4BF2-9D8C-A3CE162BEBCA}" Name="Status bar" NameU="Status bar" Master="13">
+					<Text>Status bar</Text>
+					<XForm>
+						<PinX Unit="IN">2.562500000000000</PinX>
+						<PinY Unit="IN">5.071250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="143" UniqueID="{8B3705B3-6B9B-4594-8857-725CFCE28773}" Name="Window resize" NameU="Window resize" Master="14">
+					<XForm>
+						<PinX Unit="IN">4.712500000000000</PinX>
+						<PinY Unit="IN">5.071250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="146" UniqueID="{46F60B73-6E06-4970-B60D-A79E62F75EC9}" Name="Status bar divider line" NameU="Status bar divider line" Master="15">
+					<Text>Status divider</Text>
+					<XForm>
+						<PinX Unit="IN">1.028276777123047</PinX>
+						<PinY Unit="IN">5.186250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="100" UniqueID="{39485204-7CC2-4E75-9677-9A5AA5CA14C0}" Name="Sheet.100" NameU="Sheet.100">
+					<Text>Color Space</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.031250000000000</PinX>
+						<PinY Unit="IN_F">9.781250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="149" UniqueID="{0F970BBC-E0C7-48DA-A23F-4940AE5B3C72}" Name="Windows buttons" NameU="Windows buttons" Master="16">
+					<XForm>
+						<PinX Unit="IN">4.647500000000000</PinX>
+						<PinY Unit="IN">10.553750000000001</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="154" UniqueID="{5AB4E266-F950-46B5-8AF6-9FC37E254DFC}" Name="Windows buttons.154" NameU="Windows buttons.154" Master="16">
+					<XForm>
+						<PinX Unit="IN">2.771250000000000</PinX>
+						<PinY Unit="IN_F">9.781250000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="164" UniqueID="{5FC5FB60-029D-4A33-9876-533254FC510E}" Name="Sheet.164" NameU="Sheet.164">
+					<Text>Name</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.031250000000000</PinX>
+						<PinY Unit="IN_F">10.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="165" UniqueID="{39A8FCD1-D8C0-44E8-911B-7795DF27BFF3}" Name="Slider (horizontal)" NameU="Slider (horizontal)" Master="18">
+					<XForm>
+						<PinX Unit="IN_F">1.562500000000000</PinX>
+						<PinY Unit="IN_F">7.656250000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="2" UniqueID="{E5B2B0FD-DA7F-4D07-9267-6512B591994B}" Name="Small icons" NameU="Small icons" Master="19">
+					<XForm>
+						<PinX Unit="IN">2.966250000000001</PinX>
+						<PinY Unit="IN">9.781250000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Open Folder</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="228" UniqueID="{AC2EA5D5-A6F8-414F-B2B7-DFA813931775}" Name="Slider (vertical).228" NameU="Slider (vertical).228" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">3.246249999801500</PinX>
+						<PinY Unit="IN_F">8.375000000016776</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="308" UniqueID="{D5FBEA94-1CF9-4CDC-AA48-2123AAEBB535}" Name="Combo box.308" NameU="Combo box.308" Master="12">
+					<Text>Color wheel</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.312500000000000</PinX>
+						<PinY Unit="IN_F">6.176250000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="284" UniqueID="{C09056FE-5FEB-4EFA-B6E9-20E3DAF9797E}" Name="Small icons.284" NameU="Small icons.284" Master="19">
+					<XForm>
+						<PinX Unit="IN">0.892500000000000</PinX>
+						<PinY Unit="IN_F">6.156250000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Open Folder</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="286" UniqueID="{91C5956E-ABD3-465A-A242-8C0E8AB53150}" Name="Small icons.286" NameU="Small icons.286" Master="19">
+					<XForm>
+						<PinX Unit="IN">0.642500000000000</PinX>
+						<PinY Unit="IN_F">6.156250000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Closed Folder</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="288" UniqueID="{3B6B64F6-A61A-42E9-8F03-470DE5E4CDCB}" Name="Group box" NameU="Group box" Master="6">
+					<Text>View</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.937500000000000</PinX>
+						<PinY Unit="IN_F">6.187500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="289" UniqueID="{60289241-18B5-4F7C-9FBF-D01B9846552D}" Name="Small icons.289" NameU="Small icons.289" Master="19">
+					<XForm>
+						<PinX Unit="IN">1.142500000000000</PinX>
+						<PinY Unit="IN_F">6.156250000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Document</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="71" UniqueID="{4E819BF0-1F03-464C-9540-8D0D46D7BAB8}" Name="Sheet.71" NameU="Sheet.71">
+					<Text>- Complete view customization
+- Color-space independent
+- Saving of view presets
+- Easy viewing of colorant values
+- Alternate color space views</Text>
+					<XForm>
+						<PinX Unit="IN_F">7.125000000000000</PinX>
+						<PinY Unit="IN_F">5.750000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="72" UniqueID="{463BC8D5-4138-424F-9E96-664D656C7A44}" Name="Text box (single-line).72" NameU="Text box (single-line).72" Master="11">
+					<Text>#FFFF88</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.500000000000000</PinX>
+						<PinY Unit="IN_F">7.013749999999999</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="75" UniqueID="{65F95DFC-483A-41D3-81D8-B69226C16389}" Name="Sheet.75" NameU="Sheet.75">
+					<Text>HTML RGB</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.062500000000000</PinX>
+						<PinY Unit="IN_F">6.988750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="76" UniqueID="{3BF17A2C-C673-4BF2-9CE9-643A5929B36C}" Name="Sheet.76" NameU="Sheet.76">
+					<Text>R</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.687500000000000</PinX>
+						<PinY Unit="IN_F">9.500000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="86" UniqueID="{FAC7F27B-D896-435C-9C5D-89D510B9E739}" Name="Sheet.86" NameU="Sheet.86">
+					<Text>G</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.031250000000000</PinX>
+						<PinY Unit="IN_F">9.500000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="87" UniqueID="{6A62BDA4-2A5D-4488-8251-659E30B0D85A}" Name="Sheet.87" NameU="Sheet.87">
+					<Text>B</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.343750000000000</PinX>
+						<PinY Unit="IN_F">9.500000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="88" UniqueID="{9CB08E6F-2104-4224-9ED5-643E736662D4}" Name="Text box (single-line).88" NameU="Text box (single-line).88" Master="11">
+					<Text>C 85 M 40 Y 65 K90</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.493464589793186</PinX>
+						<PinY Unit="IN_F">6.744999999999999</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="91" UniqueID="{9BAF5042-41CE-4151-A980-1AFB6B7D51CB}" Name="Sheet.91" NameU="Sheet.91">
+					<Text>CMYK</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.062500000000000</PinX>
+						<PinY Unit="IN_F">6.738750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="205" UniqueID="{06E245F1-9340-4F74-811B-DFD1F7B4EBBD}" Name="Annotation" NameU="Annotation" Master="21">
+					<Text>Buttons:
+* Import from external palette
+* Eye dropper tool
+* Pick from image on disk</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.125000000000000</PinX>
+						<PinY Unit="IN_F">10.375000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="212" UniqueID="{C319BD1E-451D-42E8-A0E8-4E407C864EEB}" Name="Annotation.212" NameU="Annotation.212" Master="21">
+					<Text>I might add a feature where you can grab a small screenshot and choose a color to replace.</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.125000000000000</PinX>
+						<PinY Unit="IN_F">9.375000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="92" UniqueID="{709C9DF0-22F0-4460-A54F-ACA4FACFFE9E}" Name="Sheet.92" NameU="Sheet.92">
+					<XForm>
+						<PinX Unit="IN_F">2.593750000000000</PinX>
+						<PinY Unit="IN_F">5.593750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="160" UniqueID="{D5B093A6-4678-4D68-BABA-312907EE0B10}" Name="Sheet.160" NameU="Sheet.160">
+					<Text>Functions of the app:
+1) palette builder
+2) color chooser (will just add a button to the "selected color" pane)</Text>
+					<XForm>
+						<PinX Unit="IN_F">7.031250000000000</PinX>
+						<PinY Unit="IN_F">3.500000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="99" UniqueID="{BFF011F5-9B10-4313-87EF-F63B71A6CA81}" Name="Rectangle.99" NameU="Rectangle.99" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">4.125000000000000</PinX>
+						<PinY Unit="IN_F">9.062500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="211" UniqueID="{66CA4295-A597-40A6-99F9-4AECC2C69B24}" Name="Rectangle.211" NameU="Rectangle.211" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">4.125000000000000</PinX>
+						<PinY Unit="IN_F">9.562500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="93" UniqueID="{889D99AD-DB92-4C22-AAD9-E64094C12FB5}" Name="Command button.93" NameU="Command button.93" Master="24">
+					<Text>Add to palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.112049519678602</PinX>
+						<PinY Unit="IN_F">7.666250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="77" UniqueID="{454BBC3C-45C7-4BAF-B4A5-6F12E60FCF1A}" Name="Group box.77" NameU="Group box.77" Master="6">
+					<Text>Selected color</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.125000000000000</PinX>
+						<PinY Unit="IN_F">8.078125000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="78" UniqueID="{F6DA0BEE-CF24-466C-B35A-6BE7A8B21AC9}" Name="Sheet.78" NameU="Sheet.78">
+					<Text>Old</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.187500000000000</PinX>
+						<PinY Unit="IN_F">9.937500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="79" UniqueID="{06295628-AC2F-42C9-9143-A8A61A8DA4FA}" Name="Sheet.79" NameU="Sheet.79">
+					<Text>New</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.187500000000000</PinX>
+						<PinY Unit="IN_F">8.687500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="80" UniqueID="{918D88C4-DD19-4E44-9978-DCD5F11EABC8}" Name="Sheet.80" NameU="Sheet.80">
+					<Text>R:	192
+G:	 43
+B:	  0</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.156250000000000</PinX>
+						<PinY Unit="IN_F">7.609375000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="81" UniqueID="{5786CEC5-A114-4953-88B2-91A4622227D5}" Name="Command button.81" NameU="Command button.81" Master="24">
+					<Text>OK</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.135000000000000</PinX>
+						<PinY Unit="IN_F">6.447500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="163" UniqueID="{08962613-3DE7-42E3-B510-28A896573FBD}" Name="Windows buttons.163" NameU="Windows buttons.163" Master="16">
+					<XForm>
+						<PinX Unit="IN">4.417500000000000</PinX>
+						<PinY Unit="IN">10.553750000000001</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Minimize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="198" UniqueID="{5531D37E-C39D-4E6E-9637-7CAB3D36E6E0}" Name="Windows buttons.198" NameU="Windows buttons.198" Master="16">
+					<XForm>
+						<PinX Unit="IN">4.187500000000000</PinX>
+						<PinY Unit="IN">10.553750000000001</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Maximize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="217" UniqueID="{F7831905-9FF8-419A-9D4A-8451A93BF500}" Name="Tab control (tabs).217" NameU="Tab control (tabs).217" Master="7">
+					<Text>Analogies</Text>
+					<XForm>
+						<PinX Unit="IN">1.165596699498047</PinX>
+						<PinY Unit="IN">10.187500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="223" UniqueID="{972C4EB9-7685-4455-8218-5B55276D8195}" Name="Command button" NameU="Command button" Master="24">
+					<Text>Exit</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.135000000000000</PinX>
+						<PinY Unit="IN_F">6.187500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="162" UniqueID="{2B645CA5-8F45-4931-AB3E-E321C5F9D332}" Name="Blank form.162" NameU="Blank form.162" Master="2">
+					<Text>Easy Palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.843750000000000</PinX>
+						<PinY Unit="IN_F">2.573750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="249" UniqueID="{F680C3B6-3658-4C3C-8C6A-93BA28B39D3B}" Name="Tab control (tabs).249" NameU="Tab control (tabs).249" Master="7">
+					<Text>Schemes</Text>
+					<XForm>
+						<PinX Unit="IN">2.073280367490233</PinX>
+						<PinY Unit="IN">4.417500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="267" UniqueID="{E47002ED-F16F-4921-878D-9EA2FFCD9F0A}" Name="Tab control (body).267" NameU="Tab control (body).267" Master="8">
+					<XForm>
+						<PinX Unit="IN_F">2.234375000000000</PinX>
+						<PinY Unit="IN_F">2.464375000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="275" UniqueID="{95E223F9-EC1B-4DA3-90D2-26B54F510500}" Name="Slider (vertical).275" NameU="Slider (vertical).275" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">2.910000000006402</PinX>
+						<PinY Unit="IN_F">2.605000000050328</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="324" UniqueID="{5DF35CC7-B584-440D-9A79-80E2C4DA8E41}" Name="Slider (vertical).324" NameU="Slider (vertical).324" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">3.222500000198501</PinX>
+						<PinY Unit="IN_F">2.605000000050328</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="353" UniqueID="{01DBADC0-FF7E-4132-92C7-0BBB4AA1A305}" Name="Tab control (tabs).353" NameU="Tab control (tabs).353" Master="7">
+					<Text>Color</Text>
+					<XForm>
+						<PinX Unit="IN">0.911502280163086</PinX>
+						<PinY Unit="IN_F">4.417500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="359" UniqueID="{D1CE99DA-C7DC-4D26-B28B-E5185DA66C6B}" Name="Tab control (tabs).359" NameU="Tab control (tabs).359" Master="7">
+					<Text>Palette</Text>
+					<XForm>
+						<PinX Unit="IN">2.634093613119138</PinX>
+						<PinY Unit="IN">4.417500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="365" UniqueID="{1C311B75-49B3-4AF2-B2A7-352D2DC9974D}" Name="Text box (single-line).365" NameU="Text box (single-line).365" Master="11">
+					<Text>Enter Text</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.687500000000000</PinX>
+						<PinY Unit="IN_F">4.236250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="368" UniqueID="{D538CA49-D54A-4D32-9F12-85D43F004196}" Name="Combo box.368" NameU="Combo box.368" Master="12">
+					<Text>RGB</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.687500000000000</PinX>
+						<PinY Unit="IN_F">4.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="377" UniqueID="{6A72DB12-0A0D-4994-B91A-4AF9BF87A33C}" Name="Status bar.377" NameU="Status bar.377" Master="13">
+					<Text>Status bar</Text>
+					<XForm>
+						<PinX Unit="IN">2.843750000000000</PinX>
+						<PinY Unit="IN">0.238750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="381" UniqueID="{D56DF029-1D42-4B6D-A635-28D7CDEDA687}" Name="Window resize.381" NameU="Window resize.381" Master="14">
+					<XForm>
+						<PinX Unit="IN">4.993750000000000</PinX>
+						<PinY Unit="IN">0.238750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="384" UniqueID="{175D5D88-2474-42C0-9379-63A6EF53D03F}" Name="Status bar divider line.384" NameU="Status bar divider line.384" Master="15">
+					<Text>Status divider</Text>
+					<XForm>
+						<PinX Unit="IN">1.309526777123047</PinX>
+						<PinY Unit="IN">0.353750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="387" UniqueID="{616F5FCB-1294-4C80-AA66-E03CA6F8025E}" Name="Sheet.387" NameU="Sheet.387">
+					<Text>Color Space</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.312500000000000</PinX>
+						<PinY Unit="IN_F">4.011250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="388" UniqueID="{589E65F9-3A0B-41A1-9891-2B8440A00FFD}" Name="Windows buttons.388" NameU="Windows buttons.388" Master="16">
+					<XForm>
+						<PinX Unit="IN">4.928750000000000</PinX>
+						<PinY Unit="IN">4.783750000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="393" UniqueID="{D479E034-8FC0-44B9-974A-4F9D5D0163A5}" Name="Windows buttons.393" NameU="Windows buttons.393" Master="16">
+					<XForm>
+						<PinX Unit="IN">3.052500000000000</PinX>
+						<PinY Unit="IN_F">4.011250000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="398" UniqueID="{0D8FB85A-887B-4D54-8BBA-32E33CBDB615}" Name="Sheet.398" NameU="Sheet.398">
+					<Text>Name</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.312500000000000</PinX>
+						<PinY Unit="IN_F">4.230000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="428" UniqueID="{7A3F5F97-DBD8-4180-B95E-68E64C578F2B}" Name="Small icons.428" NameU="Small icons.428" Master="19">
+					<XForm>
+						<PinX Unit="IN">3.247500000000001</PinX>
+						<PinY Unit="IN">4.011250000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Open Folder</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="430" UniqueID="{3E013130-67AF-45BB-9281-DA80D3EC33F1}" Name="Slider (vertical).430" NameU="Slider (vertical).430" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">3.527499999801501</PinX>
+						<PinY Unit="IN_F">2.605000000016776</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="459" UniqueID="{3925258B-8AF9-4B50-AC39-537212126ECE}" Name="Combo box.459" NameU="Combo box.459" Master="12">
+					<Text>Color wheel</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.593750000000000</PinX>
+						<PinY Unit="IN_F">0.812500000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="468" UniqueID="{DCE4E27F-654F-4CE4-A1F1-B1F1F18FF843}" Name="Small icons.468" NameU="Small icons.468" Master="19">
+					<XForm>
+						<PinX Unit="IN">1.173750000000001</PinX>
+						<PinY Unit="IN_F">0.792500000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Open Folder</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="470" UniqueID="{69698863-A458-4F8A-8329-BAD6819957C0}" Name="Small icons.470" NameU="Small icons.470" Master="19">
+					<XForm>
+						<PinX Unit="IN">0.923750000000000</PinX>
+						<PinY Unit="IN_F">0.792500000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Closed Folder</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="472" UniqueID="{6DDC00F6-3F77-4FA2-A2EF-779AE8C43236}" Name="Group box.472" NameU="Group box.472" Master="6">
+					<Text>View</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.218750000000000</PinX>
+						<PinY Unit="IN_F">0.823750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="473" UniqueID="{5EC0E8D5-064E-4AA7-B305-1621A6FD4EEB}" Name="Small icons.473" NameU="Small icons.473" Master="19">
+					<XForm>
+						<PinX Unit="IN">1.423750000000001</PinX>
+						<PinY Unit="IN_F">0.792500000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Document</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="475" UniqueID="{6365E29D-18E8-477E-B59D-524AE7ADEC16}" Name="Text box (single-line).475" NameU="Text box (single-line).475" Master="11">
+					<Text>#FFFF88</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.170000000000000</PinX>
+						<PinY Unit="IN_F">1.223749999999999</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="478" UniqueID="{B1661819-8559-4370-B266-7B06BC9F6DD2}" Name="Sheet.478" NameU="Sheet.478">
+					<Text>HTML RGB</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.732500000000000</PinX>
+						<PinY Unit="IN_F">1.198750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="479" UniqueID="{E7156DE8-7263-4EB0-AD6A-77DDAFCB8D3A}" Name="Sheet.479" NameU="Sheet.479">
+					<Text>R</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.968750000000000</PinX>
+						<PinY Unit="IN_F">3.730000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="480" UniqueID="{72F0E57C-793D-40A8-93B0-1D9ADB63194D}" Name="Sheet.480" NameU="Sheet.480">
+					<Text>G</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.312500000000000</PinX>
+						<PinY Unit="IN_F">3.730000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="481" UniqueID="{AA7532D5-CDA4-4DC2-AFFA-C1858ED911E5}" Name="Sheet.481" NameU="Sheet.481">
+					<Text>B</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.625000000000000</PinX>
+						<PinY Unit="IN_F">3.730000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="486" UniqueID="{643A92D4-19E1-48B4-A520-81DC1FD1F21E}" Name="Small icons.486" NameU="Small icons.486" Master="19">
+					<XForm>
+						<PinX Unit="IN">3.375000000000000</PinX>
+						<PinY Unit="IN_F">1.223749999999999</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Desktop</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="491" UniqueID="{3C5052DE-DE22-45B2-A26B-BD4C32A28F52}" Name="Rectangle.491" NameU="Rectangle.491" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">4.406250000000000</PinX>
+						<PinY Unit="IN_F">3.292500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="492" UniqueID="{289AB1B9-E0FD-475F-A8F5-FB24130B812C}" Name="Rectangle.492" NameU="Rectangle.492" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">4.406250000000000</PinX>
+						<PinY Unit="IN_F">3.792500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="493" UniqueID="{01712568-62D9-4BDF-A6DC-070E1ADC331E}" Name="Command button.493" NameU="Command button.493" Master="24">
+					<Text>Add to palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.393299519678603</PinX>
+						<PinY Unit="IN_F">1.896250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="499" UniqueID="{AE7CF13B-21B3-4912-8961-B1FA06D4445B}" Name="Group box.499" NameU="Group box.499" Master="6">
+					<Text>Selected color</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.406250000000000</PinX>
+						<PinY Unit="IN_F">2.464375000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="500" UniqueID="{4457A680-B751-4299-AFCB-93221D894EE7}" Name="Sheet.500" NameU="Sheet.500">
+					<Text>Old</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.468750000000000</PinX>
+						<PinY Unit="IN_F">4.167500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="501" UniqueID="{B1B4B7E9-9273-4C39-92FE-D317C315B79A}" Name="Sheet.501" NameU="Sheet.501">
+					<Text>New</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.468750000000000</PinX>
+						<PinY Unit="IN_F">2.917500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="502" UniqueID="{5B5BB17C-45BA-4FF7-98B7-209FBCAEF584}" Name="Sheet.502" NameU="Sheet.502">
+					<Text>R:	192
+G:	 43
+B:	  0</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.437500000000000</PinX>
+						<PinY Unit="IN_F">1.839375000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="503" UniqueID="{05D43868-268E-4FE3-A554-E12986708331}" Name="Command button.503" NameU="Command button.503" Master="24">
+					<Text>OK</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.416250000000000</PinX>
+						<PinY Unit="IN_F">1.146250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="509" UniqueID="{AF306711-9AD5-4C3A-8643-898933466F35}" Name="Windows buttons.509" NameU="Windows buttons.509" Master="16">
+					<XForm>
+						<PinX Unit="IN">4.698750000000000</PinX>
+						<PinY Unit="IN">4.783750000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Minimize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="514" UniqueID="{622A6D0B-2A83-4538-A266-D4586206EFB9}" Name="Windows buttons.514" NameU="Windows buttons.514" Master="16">
+					<XForm>
+						<PinX Unit="IN">4.468750000000000</PinX>
+						<PinY Unit="IN">4.783750000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Maximize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="519" UniqueID="{011ABA20-15AA-4D43-99F1-6F8D7B513551}" Name="Tab control (tabs).519" NameU="Tab control (tabs).519" Master="7">
+					<Text>Analogies</Text>
+					<XForm>
+						<PinX Unit="IN">1.446846699498047</PinX>
+						<PinY Unit="IN">4.417500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="525" UniqueID="{51051B8C-0FF2-49C1-A2F0-15015F2221BB}" Name="Command button.525" NameU="Command button.525" Master="24">
+					<Text>Exit</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.416250000000000</PinX>
+						<PinY Unit="IN_F">0.886250000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="482" UniqueID="{B91FFCBB-1535-4793-8683-E961C6EA6FD7}" Name="Sheet.482" NameU="Sheet.482">
+					<Text>R, G</Text>
+					<XForm>
+						<PinX Unit="IN_F">0.781250000000000</PinX>
+						<PinY Unit="IN_F">9.468750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="483" UniqueID="{9AF70E28-D86D-44D5-9772-B7C3E9FD1921}" Name="Sheet.483" NameU="Sheet.483">
+					<Text>B</Text>
+					<XForm>
+						<PinX Unit="IN_F">0.781250000000000</PinX>
+						<PinY Unit="IN_F">7.843750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="484" UniqueID="{C6F8E72D-EAD9-400B-B318-9E57F717A4C3}" Name="Circle.484" NameU="Circle.484" Master="3">
+					<XForm>
+						<PinX Unit="IN_F">1.765625000000000</PinX>
+						<PinY Unit="IN_F">2.870625000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="485" UniqueID="{549A6E61-5A65-4049-9942-AF62848E4BCE}" Name="Slider (horizontal).485" NameU="Slider (horizontal).485" Master="18">
+					<XForm>
+						<PinX Unit="IN_F">1.812500000000000</PinX>
+						<PinY Unit="IN_F">1.855000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="556" UniqueID="{A230C5F0-9B7F-4061-B6AB-2BD98B8B6440}" Name="Sheet.556" NameU="Sheet.556">
+					<Text>R, G</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.031250000000000</PinX>
+						<PinY Unit="IN_F">3.667500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="557" UniqueID="{BA0DAC54-A980-4921-8BF5-153815D99E1D}" Name="Sheet.557" NameU="Sheet.557">
+					<Text>B</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.031250000000000</PinX>
+						<PinY Unit="IN_F">2.042500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="201" UniqueID="{0325B3F2-A75F-47A7-984D-020BF70D92CB}" Name="Command button.201" NameU="Command button.201" Master="24">
+					<Text>Copy</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.007500000000000</PinX>
+						<PinY Unit="IN_F">7.010000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="400" UniqueID="{0DE472E1-35C7-4A27-9C18-3A082397D6F1}" Name="Command button.400" NameU="Command button.400" Master="24">
+					<Text>Copy</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.007500000000000</PinX>
+						<PinY Unit="IN_F">6.760000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="94" UniqueID="{81F2C8DE-8208-44DE-AD8A-F091ECE0CD58}" Name="Annotation.94" NameU="Annotation.94" Master="21">
+					<Text>View presets for this color space
+
+* Save...
+* Load
+* Options</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.125000000000000</PinX>
+						<PinY Unit="IN_F">6.875000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="208" UniqueID="{3295BB21-B8B1-4708-959A-9558CA46EB9E}" Name="Annotation.208" NameU="Annotation.208" Master="21">
+					<Text>* These "alternate views" are configured in view options.
+* Button is to copy to clipboard</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.125000000000000</PinX>
+						<PinY Unit="IN_F">8.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="558" UniqueID="{EA624C67-9ADB-4D83-974B-A2B32979E06F}" Name="Tab control (tabs).558" NameU="Tab control (tabs).558" Master="7">
+					<Text>Options</Text>
+					<XForm>
+						<PinX Unit="IN">2.883385328596676</PinX>
+						<PinY Unit="IN">10.187500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="564" UniqueID="{68F2C3B6-484E-4293-8B8A-60028AE6EA77}" Name="Tab control (tabs).564" NameU="Tab control (tabs).564" Master="7">
+					<Text>Options</Text>
+					<XForm>
+						<PinX Unit="IN">3.164635328596676</PinX>
+						<PinY Unit="IN">4.417500000000000</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="5" Name="View options" NameU="View options">
+			<Shapes>
+				<Shape ID="1" UniqueID="{1A486DBA-2E1E-4AEC-AC03-58435C614EBE}" Name="Blank form.215" NameU="Blank form.215" Master="2">
+					<Text>Color View Options</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.750000000000001</PinX>
+						<PinY Unit="IN_F">3.136250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{C965A323-A27A-4A83-8E8E-99DADD33FB3E}" Name="Tab control (body).195" NameU="Tab control (body).195" Master="8">
+					<XForm>
+						<PinX Unit="IN_F">5.750000000000001</PinX>
+						<PinY Unit="IN_F">3.218750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{AB3E417B-5172-43A4-A5C2-01EE16F2527D}" Name="Command button" NameU="Command button" Master="24">
+					<Text>Cancel</Text>
+					<XForm>
+						<PinX Unit="IN_F">7.490000000000002</PinX>
+						<PinY Unit="IN_F">1.093750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{0BFD2621-347D-4EF7-9AD5-E4087C39BC9F}" Name="Command button.248" NameU="Command button.248" Master="24">
+					<Text>OK</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.990000000000001</PinX>
+						<PinY Unit="IN_F">1.093750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="28" UniqueID="{6048A8C3-E187-44C6-AC55-8FA15538DE4D}" Name="Tab control (tabs).266" NameU="Tab control (tabs).266" Master="7">
+					<Text>Global</Text>
+					<XForm>
+						<PinX Unit="IN">4.582178807041991</PinX>
+						<PinY Unit="IN">5.125000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{7504A8AC-97F1-4ADC-8970-8DDD39584DC9}" Name="Tab control (tabs).224" NameU="Tab control (tabs).224" Master="7">
+					<Text>Colorspace</Text>
+					<XForm>
+						<PinX Unit="IN">3.988540091442383</PinX>
+						<PinY Unit="IN_F">5.125000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="40" UniqueID="{D3C02A25-014A-45FC-BCB5-7EBF6ECFD835}" Name="Combo box.97" NameU="Combo box.97" Master="12">
+					<Text>RGB</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.625000000000001</PinX>
+						<PinY Unit="IN_F">4.895000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="49" UniqueID="{AC39D169-03E9-414A-B028-BDBF781A72F6}" Name="Sheet.49" NameU="Sheet.49">
+					<Text>Color Space</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.250000000000001</PinX>
+						<PinY Unit="IN_F">4.906250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="50" UniqueID="{7139821D-213B-4D78-ADF4-4D792B218FFB}" Name="Sheet.50" NameU="Sheet.50">
+					<XForm>
+						<PinX Unit="IN_F">6.843750000000001</PinX>
+						<PinY Unit="IN_F">3.882812500000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="51" UniqueID="{E26099C5-625D-49CE-ABE7-F862CA9D81A6}" Name="Circle.272" NameU="Circle.272" Master="3">
+					<XForm>
+						<PinX Unit="IN_F">6.826171875000001</PinX>
+						<PinY Unit="IN_F">3.970703125000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="52" UniqueID="{95935D32-367B-4DE8-9A32-F7A85EBA5F3C}" Name="Slider (horizontal).273" NameU="Slider (horizontal).273" Master="18">
+					<XForm>
+						<PinX Unit="IN_F">6.843750000000001</PinX>
+						<PinY Unit="IN_F">3.320312500000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="81" UniqueID="{D6B2DD0E-F609-4164-9007-B2D1E26886F4}" Name="Group box.324" NameU="Group box.324" Master="6">
+					<Text>Color picker view options</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.718750000000001</PinX>
+						<PinY Unit="IN_F">3.875000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="82" UniqueID="{AEA3042E-60A0-4C7B-B9EB-44718BBC25B8}" Name="List box" NameU="List box" Master="25">
+					<Text>Colorant	Axis 1	Axis 2	Other
+Red	X
+Green		X
+Blue			X</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.843750000000001</PinX>
+						<PinY Unit="IN_F">4.250000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="VerticalBar" NameU="VerticalBar">
+						<Value Unit="STR">50</Value>
+						<Label>Vertical Scroll  Bar Thumb Size (%)</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="105" UniqueID="{8C8DE958-2BB8-4E5F-B7C5-5C111747EDED}" Name="Group box.348" NameU="Group box.348" Master="6">
+					<Text>Alternate color text displays</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.718750000000001</PinX>
+						<PinY Unit="IN_F">2.156250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="106" UniqueID="{2EAA7448-BEDB-4E72-8CDF-51C0519600E9}" Name="List box.349" NameU="List box.349" Master="25">
+					<Text>nthnth
+thnth
+</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.781250000000001</PinX>
+						<PinY Unit="IN_F">2.812500000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="VerticalBar" NameU="VerticalBar">
+						<Value Unit="STR">50</Value>
+						<Label>Vertical Scroll  Bar Thumb Size (%)</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="129" UniqueID="{7F7B78D8-340E-4343-8190-BC73B69A2BB2}" Name="Command button.93" NameU="Command button.93" Master="24">
+					<Text>Apply</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.740000000000001</PinX>
+						<PinY Unit="IN_F">1.093750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="135" UniqueID="{779F4114-D64C-4D19-88A4-4D0E62E501EF}" Name="Status bar.377" NameU="Status bar.377" Master="13">
+					<Text>Status bar</Text>
+					<XForm>
+						<PinX Unit="IN">5.750000000000001</PinX>
+						<PinY Unit="IN">0.665000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="139" UniqueID="{488DA37F-7380-4D43-8646-8453689AC4F3}" Name="Window resize.381" NameU="Window resize.381" Master="14">
+					<XForm>
+						<PinX Unit="IN">7.837500000000000</PinX>
+						<PinY Unit="IN">0.665000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="142" UniqueID="{F89F720A-5D59-40FD-89A1-4334EEF1BD82}" Name="Sheet.142" NameU="Sheet.142">
+					<Text>Color Space</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.375000000000001</PinX>
+						<PinY Unit="IN_F">2.718750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="143" UniqueID="{677B4601-8F4F-4617-9B1D-9036EAA6A727}" Name="Combo box.385" NameU="Combo box.385" Master="12">
+					<Text>RGB</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.906250000000001</PinX>
+						<PinY Unit="IN_F">2.520000000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="152" UniqueID="{3787717A-378C-4B3A-927A-E094FF8EF272}" Name="Sheet.152" NameU="Sheet.152">
+					<Text>Text</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.375000000000001</PinX>
+						<PinY Unit="IN_F">2.281250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="153" UniqueID="{6DC0AC92-39A5-459E-85B5-1C319C92CBA3}" Name="Text box (single-line).395" NameU="Text box (single-line).395" Master="11">
+					<Text>#{R}{G}{B}</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.875000000000001</PinX>
+						<PinY Unit="IN_F">2.100000000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="156" UniqueID="{44335A77-FE6C-47EC-9C06-27E392080B44}" Name="Text box (single-line).398" NameU="Text box (single-line).398" Master="11">
+					<Text>#FF8010</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.875000000000001</PinX>
+						<PinY Unit="IN_F">1.650000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="159" UniqueID="{E97B6FA7-857C-4378-93E7-0CF2D56822D6}" Name="Sheet.159" NameU="Sheet.159">
+					<Text>Sample</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.375000000000001</PinX>
+						<PinY Unit="IN_F">1.875000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="160" UniqueID="{515FFB23-287B-41F0-B126-5F33A14BB627}" Name="Blank form.402" NameU="Blank form.402" Master="2">
+					<Text>Color View Options</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.437500000000000</PinX>
+						<PinY Unit="IN_F">8.261250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="169" UniqueID="{217FBE51-003B-4184-B9E8-5A88B6180AC5}" Name="Tab control (body).411" NameU="Tab control (body).411" Master="8">
+					<XForm>
+						<PinX Unit="IN_F">2.437500000000000</PinX>
+						<PinY Unit="IN_F">8.343750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="175" UniqueID="{A2FE1418-2246-41B0-BD6A-CB31BB0A4073}" Name="Command button.417" NameU="Command button.417" Master="24">
+					<Text>Cancel</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.177500000000000</PinX>
+						<PinY Unit="IN_F">6.218750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="181" UniqueID="{3A8956AD-86D5-431E-A453-ED4D02FAAA33}" Name="Command button.423" NameU="Command button.423" Master="24">
+					<Text>OK</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.677500000000000</PinX>
+						<PinY Unit="IN_F">6.218750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="187" UniqueID="{33B7E55A-48C9-457C-8DEF-7771685FD0D6}" Name="Tab control (tabs).435" NameU="Tab control (tabs).435" Master="7">
+					<Text>Colorspace</Text>
+					<XForm>
+						<PinX Unit="IN">0.676040091442383</PinX>
+						<PinY Unit="IN_F">10.250000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="193" UniqueID="{7D30DB3A-81EB-4F13-8003-BE1B560FEA90}" Name="Command button.530" NameU="Command button.530" Master="24">
+					<Text>Apply</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.427500000000000</PinX>
+						<PinY Unit="IN_F">6.218750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="199" UniqueID="{6CA27B87-E5E1-42D1-A9E8-0D06BBDE36E3}" Name="Status bar.536" NameU="Status bar.536" Master="13">
+					<Text>Status bar</Text>
+					<XForm>
+						<PinX Unit="IN">2.437500000000000</PinX>
+						<PinY Unit="IN">5.790000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="203" UniqueID="{95775C8B-2437-4017-8654-D1ABDCBDF728}" Name="Window resize.540" NameU="Window resize.540" Master="14">
+					<XForm>
+						<PinX Unit="IN">3.775000000000000</PinX>
+						<PinY Unit="IN_F">3.422916666666667</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="206" UniqueID="{F4666919-005A-4ED6-A53D-06F3853A1884}" Name="Tab control (tabs).429" NameU="Tab control (tabs).429" Master="7">
+					<Text>Global</Text>
+					<XForm>
+						<PinX Unit="IN">1.269678807041991</PinX>
+						<PinY Unit="IN">10.250000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="218" UniqueID="{B79AF755-C477-4CD3-AD55-4D9FF3C9BE44}" Name="Check box.447" NameU="Check box.447" Master="27">
+					<Text>Anti-aliasing</Text>
+					<XForm>
+						<PinX Unit="IN_F">0.453934502673828</PinX>
+						<PinY Unit="IN_F">9.810000000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="224" UniqueID="{97BC2AF3-EB93-4467-8D88-CABE168917B6}" Name="Windows buttons" NameU="Windows buttons" Master="16">
+					<XForm>
+						<PinX Unit="IN">4.450000000000001</PinX>
+						<PinY Unit="IN_F">10.625000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="229" UniqueID="{66CFC52A-990E-4983-A5F5-40D6A31AA094}" Name="Windows buttons.163" NameU="Windows buttons.163" Master="16">
+					<XForm>
+						<PinX Unit="IN">4.220000000000001</PinX>
+						<PinY Unit="IN">10.625000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Minimize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="234" UniqueID="{B720D875-9A44-40B5-A1A1-1275452D5A14}" Name="Windows buttons.198" NameU="Windows buttons.198" Master="16">
+					<XForm>
+						<PinX Unit="IN">3.990000000000000</PinX>
+						<PinY Unit="IN">10.625000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Maximize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="239" UniqueID="{1D0A225F-B0FD-428D-A7BF-6F9536400373}" Name="Windows buttons.239" NameU="Windows buttons.239" Master="16">
+					<XForm>
+						<PinX Unit="IN">7.760000000000000</PinX>
+						<PinY Unit="IN_F">5.500000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="244" UniqueID="{D0FAF26E-6D28-4CD2-9C79-07C3B6681A75}" Name="Windows buttons.244" NameU="Windows buttons.244" Master="16">
+					<XForm>
+						<PinX Unit="IN">7.529999999999999</PinX>
+						<PinY Unit="IN">5.500000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Minimize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="249" UniqueID="{7292D69C-FE36-4910-A703-8FDA737BFB30}" Name="Windows buttons.249" NameU="Windows buttons.249" Master="16">
+					<XForm>
+						<PinX Unit="IN">7.299999999999999</PinX>
+						<PinY Unit="IN">5.500000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Maximize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="254" UniqueID="{772E8A81-06C6-449F-88F7-8D37B13D8CBE}" Name="Combo box.254" NameU="Combo box.254" Master="12">
+					<Text>Color wheel</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.625000000000000</PinX>
+						<PinY Unit="IN_F">4.480000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="263" UniqueID="{9971581F-0CE9-4953-B633-CC02299C6541}" Name="Sheet.263" NameU="Sheet.263">
+					<Text>Model</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.249999999999999</PinX>
+						<PinY Unit="IN_F">4.468750000000000</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="4" Name="Analogies" NameU="Schemes">
+			<Layer IX="0">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="59" UniqueID="{D820D706-8D1C-45FC-A835-91BE8BC1D25E}" Name="Blank form" NameU="Blank form" Master="2">
+					<Text>Easy Palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.678571428571428</PinX>
+						<PinY Unit="IN_F">8.464285714285714</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="107" UniqueID="{0D308365-0E5C-479A-8122-E0FFDF1729F5}" Name="Tab control (body)" NameU="Tab control (body)" Master="8">
+					<XForm>
+						<PinX Unit="IN_F">3.069196428571428</PinX>
+						<PinY Unit="IN_F">8.370535714285714</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="197" UniqueID="{F3E143B4-180B-4AF9-8973-B242CE8DD565}" Name="Status bar" NameU="Status bar" Master="13">
+					<Text>Status bar</Text>
+					<XForm>
+						<PinX Unit="IN">3.678571428571428</PinX>
+						<PinY Unit="IN">6.245357142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="201" UniqueID="{DC93BC3F-9652-453A-90EF-DADF983C76DE}" Name="Window resize" NameU="Window resize" Master="14">
+					<XForm>
+						<PinX Unit="IN">6.212500000000000</PinX>
+						<PinY Unit="IN">6.245357142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="204" UniqueID="{019E8BB4-D4BC-4D5D-8085-2C0C682B89C7}" Name="Status bar divider line" NameU="Status bar divider line" Master="15">
+					<Text>Status divider</Text>
+					<XForm>
+						<PinX Unit="IN">1.760419634265904</PinX>
+						<PinY Unit="IN">6.360357142857143</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="49" UniqueID="{7E59DCCC-464D-4C58-8FEE-7E52FB2D6D1C}" Name="Combo box" NameU="Combo box" Master="12">
+					<Text>(none)</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.125000000000000</PinX>
+						<PinY Unit="IN_F">9.997857142857143</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="58" UniqueID="{824271A5-BEA6-4FE9-A133-C53BC2F2F35B}" Name="Sheet.58" NameU="Sheet.58">
+					<Text>Preset</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.750000000000000</PinX>
+						<PinY Unit="IN_F">10.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="64" UniqueID="{C56AC909-5917-41E9-B9D8-5D919B340A80}" Name="Text box (single-line)" NameU="Text box (single-line)" Master="11">
+					<Text>8</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.187500000000000</PinX>
+						<PinY Unit="IN_F">8.421428571428571</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="67" UniqueID="{0BFEBC8A-58D2-4F06-A941-801E2593C9CC}" Name="Slider (horizontal)" NameU="Slider (horizontal)" Master="18">
+					<XForm>
+						<PinX Unit="IN_F">3.812500000000000</PinX>
+						<PinY Unit="IN_F">8.392857142857142</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">15</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="96" UniqueID="{5875AA4E-21AE-462B-93DF-2F568CA8D5A1}" Name="Sheet.96" NameU="Sheet.96">
+					<Text>Variants</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.812500000000000</PinX>
+						<PinY Unit="IN_F">8.383928571428571</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="1" UniqueID="{23DB4DBB-4F03-4899-A5DF-E1376FFBEC45}" Name="Square" NameU="Square" Master="29">
+					<XForm>
+						<PinX Unit="IN_F">1.712115626871930</PinX>
+						<PinY Unit="IN_F">8.964285714285714</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{43C71759-A66B-4AEF-97E1-72C18C5212E1}" Name="Dynamic connector" NameU="Dynamic connector" Master="30">
+					<XForm>
+						<PinX Unit="IN_F">2.209883484014787</PinX>
+						<PinY Unit="IN_F">8.955357142857142</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="5" UniqueID="{F417D7FC-6379-4092-AC95-78D3AC03433D}" Name="List box" NameU="List box" Master="25">
+					<XForm>
+						<PinX Unit="IN_F">3.000000000000000</PinX>
+						<PinY Unit="IN_F">7.517857142857142</PinY>
+					</XForm>
+					<Prop ID="1" Name="VerticalBar" NameU="VerticalBar">
+						<Value Unit="STR">50</Value>
+						<Label>Vertical Scroll  Bar Thumb Size (%)</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="28" UniqueID="{908C3B7C-FD03-46A2-9FD4-9009EF7C8E23}" Name="Rectangle" NameU="Rectangle" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">3.000000000000000</PinX>
+						<PinY Unit="IN_F">8.017857142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{6319C766-74B6-45B0-AB5A-E237019B6E1A}" Name="Square.3" NameU="Square.3" Master="29">
+					<XForm>
+						<PinX Unit="IN_F">2.712115626871930</PinX>
+						<PinY Unit="IN_F">8.964285714285714</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{937DD022-0280-4CC2-BD15-7146D73C7834}" Name="Rectangle.4" NameU="Rectangle.4" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">4.043557813435966</PinX>
+						<PinY Unit="IN_F">9.044642857142858</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="29" UniqueID="{4103E76D-65E7-4B7E-A420-62DFBF96A92D}" Name="Text box (single-line).29" NameU="Text box (single-line).29" Master="11">
+					<Text>Enter Text</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.125000000000000</PinX>
+						<PinY Unit="IN_F">9.742857142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="32" UniqueID="{1A601A1F-DD1F-481E-AD1D-D20EE6BE6E8D}" Name="Sheet.32" NameU="Sheet.32">
+					<Text>Name</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.803571428571429</PinX>
+						<PinY Unit="IN_F">9.705357142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="33" UniqueID="{1BA5ECFA-D2B6-4F4C-BBB4-17EF656A36E2}" Name="Grid column" NameU="Grid column" Master="26">
+					<Text>Colorspace</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.250000000000000</PinX>
+						<PinY Unit="IN_F">7.517857142857142</PinY>
+					</XForm>
+					<Prop ID="1" Name="Rows" NameU="Rows">
+						<Value Unit="STR">6</Value>
+						<Label>Number of Rows</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="118" UniqueID="{FA5F65AF-B1B1-4157-A28E-1FE166E0A335}" Name="Grid column.118" NameU="Grid column.118" Master="26">
+					<Text>Colorant</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.062500000000000</PinX>
+						<PinY Unit="IN_F">7.517857142857142</PinY>
+					</XForm>
+					<Prop ID="1" Name="Rows" NameU="Rows">
+						<Value Unit="STR">6</Value>
+						<Label>Number of Rows</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="139" UniqueID="{F97ABDB7-F25C-4EE7-A69E-626C09FD7F93}" Name="Grid column.139" NameU="Grid column.139" Master="26">
+					<Text>Type</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.875000000000000</PinX>
+						<PinY Unit="IN_F">7.517857142857142</PinY>
+					</XForm>
+					<Prop ID="1" Name="Rows" NameU="Rows">
+						<Value Unit="STR">6</Value>
+						<Label>Number of Rows</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="160" UniqueID="{CBBECCD6-8559-4D9B-958B-B5CEE6B56273}" Name="Sheet.160" NameU="Sheet.160">
+					<Text>Color A</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.937500000000000</PinX>
+						<PinY Unit="IN_F">9.312500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="161" UniqueID="{24B704A3-2773-4866-B229-7722394CF931}" Name="Sheet.161" NameU="Sheet.161">
+					<Text>Color B</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.953187055443359</PinX>
+						<PinY Unit="IN_F">9.330357142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="162" UniqueID="{06DE3A4D-7AE3-4765-A9E2-7B5BA1199DAB}" Name="Small icons" NameU="Small icons" Master="19">
+					<XForm>
+						<PinX Unit="IN">4.312142857142857</PinX>
+						<PinY Unit="IN_F">9.741071428571429</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Open Folder</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="164" UniqueID="{CD173D64-EB7F-4C53-9838-D2D6A369657F}" Name="Group box" NameU="Group box" Master="6">
+					<Text>Source</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.195343527721680</PinX>
+						<PinY Unit="IN_F">9.080357142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="165" UniqueID="{1B219667-D72E-4CC1-AA7B-F925CA97ACBF}" Name="Group box.165" NameU="Group box.165" Master="6">
+					<Text>New color base</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.031250000000000</PinX>
+						<PinY Unit="IN_F">9.080357142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="251" UniqueID="{E8B926B3-09DD-4649-AC10-A305AAD764F2}" Name="Annotation.212" NameU="Annotation.212" Master="21">
+					<Text>Buttons:
+* Save as preset
+* save to file
+* load from file</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.625000000000000</PinX>
+						<PinY Unit="IN_F">10.142857142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="254" UniqueID="{4CCA4237-8DB1-474E-919C-143F910AF946}" Name="Command button" NameU="Command button" Master="24">
+					<Text>Add to palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.924549519678602</PinX>
+						<PinY Unit="IN_F">7.695357142857143</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="260" UniqueID="{620903FB-07A6-4D37-8F0E-0BA7CE9A7045}" Name="Annotation.260" NameU="Annotation.260" Master="21">
+					<Text>Palette ctrl with one swatch per variation; Allows selection</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.625000000000000</PinX>
+						<PinY Unit="IN_F">8.642857142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="278" UniqueID="{1C8F8DEA-0AC9-425B-A623-B8F3C6B61F83}" Name="Rectangle.99" NameU="Rectangle.99" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">5.625000000000000</PinX>
+						<PinY Unit="IN_F">9.080357142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="279" UniqueID="{4891F684-5377-4A2F-8993-D0629C4ABA22}" Name="Rectangle.211" NameU="Rectangle.211" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">5.625000000000000</PinX>
+						<PinY Unit="IN_F">9.580357142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="280" UniqueID="{2D5E3D60-ACD6-4D5C-9596-49CACABB22AB}" Name="Command button.280" NameU="Command button.280" Master="24">
+					<Text>Add to palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.624999999999999</PinX>
+						<PinY Unit="IN_F">7.656250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="286" UniqueID="{5EE5991A-E01F-43A9-91F6-D3CAB390ACF0}" Name="Group box.77" NameU="Group box.77" Master="6">
+					<Text>Selected color</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.625000000000000</PinX>
+						<PinY Unit="IN_F">8.383928571428571</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="287" UniqueID="{2A6C7E04-4A61-4F89-BADD-324C6BA27445}" Name="Sheet.287" NameU="Sheet.287">
+					<Text>Old</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.687500000000000</PinX>
+						<PinY Unit="IN_F">9.955357142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="288" UniqueID="{DAEE947F-2A71-4E34-A23C-858BF7D8FB6A}" Name="Sheet.288" NameU="Sheet.288">
+					<Text>New</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.687500000000000</PinX>
+						<PinY Unit="IN_F">8.705357142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="289" UniqueID="{8233EF8E-6FF5-4C21-A8E6-EE95212B10E5}" Name="Sheet.289" NameU="Sheet.289">
+					<Text>R:	192
+G:	 43
+B:	  0</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.656250000000000</PinX>
+						<PinY Unit="IN_F">7.627232142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="208" UniqueID="{06105DC2-80BB-45C3-9436-BDC1A1E32B9A}" Name="Windows buttons" NameU="Windows buttons" Master="16">
+					<XForm>
+						<PinX Unit="IN">6.105000000000000</PinX>
+						<PinY Unit="IN_F">10.562500000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="296" UniqueID="{1E457E6B-76A0-4253-83E7-7518679B77B0}" Name="Windows buttons.163" NameU="Windows buttons.163" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.875000000000000</PinX>
+						<PinY Unit="IN">10.562500000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Minimize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="301" UniqueID="{11F0BC62-F9A8-48DF-B983-72A91960EFB3}" Name="Windows buttons.198" NameU="Windows buttons.198" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.645000000000000</PinX>
+						<PinY Unit="IN">10.562500000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Maximize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="101" UniqueID="{44DAD462-F580-457E-A71E-EA0C8DE34E63}" Name="Tab control (tabs).111" NameU="Tab control (tabs).111" Master="7">
+					<Text>Schemes</Text>
+					<XForm>
+						<PinX Unit="IN">2.524173224633090</PinX>
+						<PinY Unit="IN">10.191964285714285</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="173" UniqueID="{39685DB0-4DB0-464A-BF11-A408A5BA716D}" Name="Tab control (tabs)" NameU="Tab control (tabs)" Master="7">
+					<Text>Color</Text>
+					<XForm>
+						<PinX Unit="IN">1.362395137305943</PinX>
+						<PinY Unit="IN_F">10.191964285714285</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="179" UniqueID="{F504F4AE-6850-414D-A564-7FFA33D0C0C4}" Name="Tab control (tabs).124" NameU="Tab control (tabs).124" Master="7">
+					<Text>Palette</Text>
+					<XForm>
+						<PinX Unit="IN">3.084986470261995</PinX>
+						<PinY Unit="IN">10.191964285714285</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="382" UniqueID="{08866FB6-20C6-4CD6-A8CF-ACA4AD457CE3}" Name="Tab control (tabs).217" NameU="Tab control (tabs).217" Master="7">
+					<Text>Analogies</Text>
+					<XForm>
+						<PinX Unit="IN">1.897739556640903</PinX>
+						<PinY Unit="IN">10.191964285714285</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="166" UniqueID="{56466D6C-C038-49A4-BF3C-7CC4C9884DFA}" Name="Small icons.166" NameU="Small icons.166" Master="19">
+					<XForm>
+						<PinX Unit="IN">4.580000000000000</PinX>
+						<PinY Unit="IN_F">9.750000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Open Folder</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="168" UniqueID="{116FEAB0-728A-4CF0-A934-2CF7134FB75A}" Name="Command button.81" NameU="Command button.81" Master="24">
+					<Text>OK</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.646250000000000</PinX>
+						<PinY Unit="IN_F">7.031250000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="186" UniqueID="{4D9A6453-6BBB-4D06-B104-30C6688DA1F6}" Name="Command button.186" NameU="Command button.186" Master="24">
+					<Text>Exit</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.646250000000000</PinX>
+						<PinY Unit="IN_F">6.771250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="388" UniqueID="{4BC528F8-CD0C-4B91-81CA-464DA6DF92DD}" Name="Annotation.388" NameU="Annotation.388" Master="21">
+					<Text>Allows in-place editing with drop-down options</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.533615679522627</PinX>
+						<PinY Unit="IN_F">7.292857142857142</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="391" UniqueID="{52D447BE-927C-45C1-A1B2-3463C91C45EF}" Name="Tab control (tabs).558" NameU="Tab control (tabs).558" Master="7">
+					<Text>Options</Text>
+					<XForm>
+						<PinX Unit="IN">3.615528185739533</PinX>
+						<PinY Unit="IN">10.191964285714285</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="6" Name="Schemes" NameU="Sheet.6">
+			<Layer IX="0">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{90F0169C-A620-4B13-968F-F47734FF0D04}" Name="Blank form.166" NameU="Blank form.166" Master="2">
+					<Text>Easy Palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.285691964285698</PinX>
+						<PinY Unit="IN_F">5.503333333333327</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{983CC8A3-9A11-4EFA-BEDB-653F71772919}" Name="Tab control (body).187" NameU="Tab control (body).187" Master="8">
+					<XForm>
+						<PinX Unit="IN_F">2.660691964285698</PinX>
+						<PinY Unit="IN_F">5.409583333333327</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{730DB762-411B-4046-A092-9C5C5075B534}" Name="Status bar.220" NameU="Status bar.220" Master="13">
+					<Text>Status bar</Text>
+					<XForm>
+						<PinX Unit="IN">3.285691964285698</PinX>
+						<PinY Unit="IN">3.284404761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{ABB00FA6-C631-4313-8D33-713BF19BBDEA}" Name="Window resize.224" NameU="Window resize.224" Master="14">
+					<XForm>
+						<PinX Unit="IN">5.810691964285699</PinX>
+						<PinY Unit="IN">3.284404761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{2B83770F-3B84-491F-891E-B1A4AC542206}" Name="Status bar divider line.227" NameU="Status bar divider line.227" Master="15">
+					<Text>Status divider</Text>
+					<XForm>
+						<PinX Unit="IN">1.376468741408745</PinX>
+						<PinY Unit="IN">3.399404761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="36" UniqueID="{89155473-1B90-428D-B117-39C48CF903B9}" Name="Circle" NameU="Circle" Master="3">
+					<XForm>
+						<PinX Unit="IN_F">1.629441964285698</PinX>
+						<PinY Unit="IN_F">6.187500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="37" UniqueID="{2108CF92-2705-4CC5-8036-FDB65CB126BD}" Name="Circle.264" NameU="Circle.264" Master="3">
+					<XForm>
+						<PinX Unit="IN_F">1.134650297619032</PinX>
+						<PinY Unit="IN_F">6.755208333333334</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="38" UniqueID="{2D29DC68-1AAB-4342-8D76-64810C56A35C}" Name="Circle.265" NameU="Circle.265" Master="3">
+					<XForm>
+						<PinX Unit="IN_F">2.134650297619032</PinX>
+						<PinY Unit="IN_F">5.593750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="39" UniqueID="{0E7333D5-52EA-44A3-B50B-05DDA488330E}" Name="Dynamic connector.266" NameU="Dynamic connector.266" Master="30">
+					<XForm>
+						<PinX Unit="IN_F">1.634650297619032</PinX>
+						<PinY Unit="IN_F">6.174479166666667</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="40" UniqueID="{208720CF-85FF-43DB-A52C-DE5DE2A45785}" Name="Combo box.267" NameU="Combo box.267" Master="12">
+					<Text>Opposites</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.625000000000000</PinX>
+						<PinY Unit="IN_F">6.855000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="49" UniqueID="{0D35CE43-268A-4ED0-9EC1-3886FEFC80FD}" Name="Sheet.49" NameU="Sheet.49">
+					<Text>Model</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.062500000000000</PinX>
+						<PinY Unit="IN_F">7.062500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="50" UniqueID="{1BF6815C-3A82-4579-B91F-42DA6BF6ECA2}" Name="Windows buttons.230" NameU="Windows buttons.230" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.745691964285698</PinX>
+						<PinY Unit="IN">7.597261904761898</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="55" UniqueID="{8B9D460A-0241-45F6-A5AB-7CE2A8FC20C2}" Name="Windows buttons.306" NameU="Windows buttons.306" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.515691964285699</PinX>
+						<PinY Unit="IN">7.597261904761898</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Minimize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="60" UniqueID="{655C7977-5E08-4298-9629-1BE051AE3BE7}" Name="Windows buttons.311" NameU="Windows buttons.311" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.285691964285698</PinX>
+						<PinY Unit="IN">7.597261904761898</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Maximize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="66" UniqueID="{B6676810-5C54-435B-9DF1-A417486A175A}" Name="Rectangle.99" NameU="Rectangle.99" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">5.223191964285698</PinX>
+						<PinY Unit="IN_F">6.056904761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="67" UniqueID="{1305049C-30A7-4FD5-A544-6176405112ED}" Name="Rectangle.211" NameU="Rectangle.211" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">5.223191964285698</PinX>
+						<PinY Unit="IN_F">6.556904761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="68" UniqueID="{2815BE32-DA99-406B-B188-BCAF0CAC3B5B}" Name="Command button" NameU="Command button" Master="24">
+					<Text>Add to palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.237049519678602</PinX>
+						<PinY Unit="IN_F">4.625000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="74" UniqueID="{C7CE32B6-80EE-4BE0-A23E-2011532A56E2}" Name="Group box.77" NameU="Group box.77" Master="6">
+					<Text>Selected color</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.223191964285698</PinX>
+						<PinY Unit="IN_F">5.372202380952378</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="75" UniqueID="{A4428A82-A346-4F9D-9F6D-F95C8303FCA9}" Name="Sheet.75" NameU="Sheet.75">
+					<Text>Old</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.285691964285698</PinX>
+						<PinY Unit="IN_F">6.931904761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="76" UniqueID="{047B937C-A8F0-4077-963B-3C76219BD931}" Name="Sheet.76" NameU="Sheet.76">
+					<Text>New</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.285691964285698</PinX>
+						<PinY Unit="IN_F">5.681904761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="77" UniqueID="{F16D6C8D-AF7E-4B1A-9CB7-02999760D0A2}" Name="Sheet.77" NameU="Sheet.77">
+					<Text>R:	192
+G:	 43
+B:	  0</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.254441964285698</PinX>
+						<PinY Unit="IN_F">4.603779761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="84" UniqueID="{8B8B5536-93F8-4DFA-B10E-9877B4356447}" Name="Rectangle.335" NameU="Rectangle.335" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">2.660691964285698</PinX>
+						<PinY Unit="IN_F">4.525654761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="85" UniqueID="{C22A23BD-AE09-4E2B-A566-DE710086DBE2}" Name="Text box (single-line).336" NameU="Text box (single-line).336" Master="11">
+					<Text>8</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.801316964285698</PinX>
+						<PinY Unit="IN_F">4.897976190476184</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="88" UniqueID="{A8B795EE-443D-49F0-B783-9797E24B3516}" Name="Slider (horizontal).339" NameU="Slider (horizontal).339" Master="18">
+					<XForm>
+						<PinX Unit="IN_F">3.426316964285698</PinX>
+						<PinY Unit="IN_F">4.869404761904756</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">15</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="117" UniqueID="{0FA08E54-22B5-4BF2-869C-9E645CF8F777}" Name="Sheet.117" NameU="Sheet.117">
+					<Text>Variants</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.426316964285698</PinX>
+						<PinY Unit="IN_F">4.860476190476184</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="118" UniqueID="{9B666297-7229-4BAD-9678-15861C7FBE68}" Name="Sheet.118" NameU="Sheet.118">
+					<Text>Analogy</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.062500000000000</PinX>
+						<PinY Unit="IN_F">6.531250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="119" UniqueID="{C96EEFDC-D7DD-404F-9D53-D07F0961DA84}" Name="Combo box.370" NameU="Combo box.370" Master="12">
+					<Text>Darker</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.625000000000000</PinX>
+						<PinY Unit="IN_F">6.323750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="128" UniqueID="{B699858D-56BD-4F96-95A1-EE13FD0584E9}" Name="Annotation.379" NameU="Annotation.379" Master="21">
+					<Text>Choose an analogy preset to base off of
+
+Defailts:
+Darker
+Lighter
+Cooler
+Warmer
+None</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.224308035714270</PinX>
+						<PinY Unit="IN_F">5.994404761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="131" UniqueID="{D6A0A92C-7848-48D9-A35C-AE3BD21B781D}" Name="Tab control (tabs).214" NameU="Tab control (tabs).214" Master="7">
+					<Text>Color</Text>
+					<XForm>
+						<PinX Unit="IN">0.978444244448784</PinX>
+						<PinY Unit="IN_F">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="137" UniqueID="{86679F44-5262-415A-8E34-1ACE30ACF0DC}" Name="Tab control (tabs).235" NameU="Tab control (tabs).235" Master="7">
+					<Text>Palette</Text>
+					<XForm>
+						<PinX Unit="IN">2.701035577404837</PinX>
+						<PinY Unit="IN">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="143" UniqueID="{3D199B30-287E-4079-A056-CFB6CE6B4DBA}" Name="Tab control (tabs).388" NameU="Tab control (tabs).388" Master="7">
+					<Text>Analogies</Text>
+					<XForm>
+						<PinX Unit="IN">1.513788663783745</PinX>
+						<PinY Unit="IN">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="149" UniqueID="{55CFC836-8FF4-4CDD-ABE1-AD81CF95A434}" Name="Tab control (tabs).193" NameU="Tab control (tabs).193" Master="7">
+					<Text>Schemes</Text>
+					<XForm>
+						<PinX Unit="IN">2.140222331775931</PinX>
+						<PinY Unit="IN">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="26" UniqueID="{30669159-DD06-40F1-A3A0-139E51D1793B}" Name="Rectangle.26" NameU="Rectangle.26" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">2.655133928571428</PinX>
+						<PinY Unit="IN_F">4.161017014101777</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="27" UniqueID="{A74FAB63-5C26-46BA-9398-04F8427896ED}" Name="Annotation.27" NameU="Annotation.27" Master="21">
+					<Text>Complementary
+Triangle
+Triangle 2
+Rectangle
+Pentagon</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.500000000000000</PinX>
+						<PinY Unit="IN_F">8.250000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="30" UniqueID="{ED981E70-984C-4A04-9CE5-A267250A0A82}" Name="Command button.81" NameU="Command button.81" Master="24">
+					<Text>OK</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.260000000000000</PinX>
+						<PinY Unit="IN_F">4.041250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="65" UniqueID="{E6C319C3-6468-42E9-A849-D12A49C56C1A}" Name="Command button.65" NameU="Command button.65" Master="24">
+					<Text>Exit</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.260000000000000</PinX>
+						<PinY Unit="IN_F">3.781250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="155" UniqueID="{814AFFA0-EEB0-4828-A6F0-C21311A41FFE}" Name="Annotation.155" NameU="Annotation.155" Master="21">
+					<Text>A row of swatches (a palette control) for each node on the scheme control.
+
+Here is where you can actually select multiple colors and add them to the palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.125000000000000</PinX>
+						<PinY Unit="IN_F">4.375000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="158" UniqueID="{6EF225EE-0F43-4B88-98BB-03316CCE150C}" Name="Annotation.158" NameU="Annotation.158" Master="21">
+					<Text>The scheme control...
+lets you drag handles around and select colors</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.875000000000000</PinX>
+						<PinY Unit="IN_F">8.375000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="161" UniqueID="{A15083E5-21A1-47A3-A125-8179B49E0D7C}" Name="Tab control (tabs).558" NameU="Tab control (tabs).558" Master="7">
+					<Text>Options</Text>
+					<XForm>
+						<PinX Unit="IN">3.231577292882375</PinX>
+						<PinY Unit="IN">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="7" Name="Palette" NameU="Palette">
+			<Layer IX="0">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{8C8550CF-A68B-4508-AA76-DCB867457B31}" Name="Blank form.166" NameU="Blank form.166" Master="2">
+					<Text>Easy Palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.285691964285698</PinX>
+						<PinY Unit="IN_F">5.503333333333327</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{CA505778-4082-46B6-BED7-F90E3447BFD7}" Name="Tab control (body).187" NameU="Tab control (body).187" Master="8">
+					<XForm>
+						<PinX Unit="IN_F">2.660691964285698</PinX>
+						<PinY Unit="IN_F">5.409583333333327</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{A882F0B1-2A60-4F19-AED6-10F339429DC4}" Name="Status bar.220" NameU="Status bar.220" Master="13">
+					<Text>Status bar</Text>
+					<XForm>
+						<PinX Unit="IN">3.285691964285698</PinX>
+						<PinY Unit="IN">3.284404761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{4BC17CB9-26A5-41BA-8FE1-4131A0E3A7EF}" Name="Window resize.224" NameU="Window resize.224" Master="14">
+					<XForm>
+						<PinX Unit="IN">5.810691964285699</PinX>
+						<PinY Unit="IN">3.284404761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{4B84FFB6-AD76-4E04-A9CC-23DD48378806}" Name="Status bar divider line.227" NameU="Status bar divider line.227" Master="15">
+					<Text>Status divider</Text>
+					<XForm>
+						<PinX Unit="IN">1.376468741408745</PinX>
+						<PinY Unit="IN">3.399404761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="40" UniqueID="{B361C353-BD41-4E56-B7C9-AA8E1BE1DE73}" Name="Windows buttons.230" NameU="Windows buttons.230" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.745691964285698</PinX>
+						<PinY Unit="IN">7.597261904761898</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="45" UniqueID="{412C47FA-DC5B-4C4A-8D7F-10FDAFF56651}" Name="Windows buttons.306" NameU="Windows buttons.306" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.515691964285699</PinX>
+						<PinY Unit="IN">7.597261904761898</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Minimize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="50" UniqueID="{06633C8C-0F48-4D9C-8D6C-0A80400331AE}" Name="Windows buttons.311" NameU="Windows buttons.311" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.285691964285698</PinX>
+						<PinY Unit="IN">7.597261904761898</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Maximize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="56" UniqueID="{DDF7DF4E-59D2-4426-81BA-BBE4CF3082E4}" Name="Rectangle.99" NameU="Rectangle.99" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">5.223191964285698</PinX>
+						<PinY Unit="IN_F">6.043526785714287</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="57" UniqueID="{C809C187-0051-40F3-BA2F-74896989CD39}" Name="Rectangle.211" NameU="Rectangle.211" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">5.223191964285698</PinX>
+						<PinY Unit="IN_F">6.565848214285714</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="64" UniqueID="{1E13BE26-9F2F-480B-9614-E9C84648E7F8}" Name="Group box.77" NameU="Group box.77" Master="6">
+					<Text>Selected color</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.223191964285698</PinX>
+						<PinY Unit="IN_F">5.390625000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="65" UniqueID="{77DA5E18-F639-48A0-A997-C2F46C8F0ADA}" Name="Sheet.65" NameU="Sheet.65">
+					<Text>Old</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.285691964285698</PinX>
+						<PinY Unit="IN_F">6.957589285714287</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="66" UniqueID="{0E1D9412-2A7E-4BF0-BD57-8A5B343C1F77}" Name="Sheet.66" NameU="Sheet.66">
+					<Text>New</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.285691964285698</PinX>
+						<PinY Unit="IN_F">5.651785714285714</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="67" UniqueID="{FE0E7AFD-EBEC-4585-A997-FA2C18AEAC8B}" Name="Sheet.67" NameU="Sheet.67">
+					<Text>R:	192
+G:	 43
+B:	  0</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.254441964285698</PinX>
+						<PinY Unit="IN_F">4.525530133928571</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="121" UniqueID="{ED4C681A-A9B1-4B6B-B463-8F34097989BC}" Name="Tab control (tabs).214" NameU="Tab control (tabs).214" Master="7">
+					<Text>Color</Text>
+					<XForm>
+						<PinX Unit="IN">0.978444244448784</PinX>
+						<PinY Unit="IN_F">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="133" UniqueID="{71B7EFB0-A94E-4FFB-BF5C-C9EFD32F34B4}" Name="Tab control (tabs).388" NameU="Tab control (tabs).388" Master="7">
+					<Text>Analogies</Text>
+					<XForm>
+						<PinX Unit="IN">1.513788663783745</PinX>
+						<PinY Unit="IN">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="139" UniqueID="{6A31FA58-F4B3-48BB-8CF5-7CAC46E27019}" Name="Tab control (tabs).193" NameU="Tab control (tabs).193" Master="7">
+					<Text>Schemes</Text>
+					<XForm>
+						<PinX Unit="IN">2.140222331775931</PinX>
+						<PinY Unit="IN">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="127" UniqueID="{88A9B135-1F95-4A88-AEF9-6408C1907C1A}" Name="Tab control (tabs).235" NameU="Tab control (tabs).235" Master="7">
+					<Text>Palette</Text>
+					<XForm>
+						<PinX Unit="IN">2.701035577404837</PinX>
+						<PinY Unit="IN">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="26" UniqueID="{638AC676-2056-4A71-9CE7-528D9F1BFAA0}" Name="Command button.81" NameU="Command button.81" Master="24">
+					<Text>OK</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.240000000000000</PinX>
+						<PinY Unit="IN_F">4.072500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="32" UniqueID="{E8FAF7A2-C05D-44DB-95A7-6C6B1F73E0EE}" Name="Command button" NameU="Command button" Master="24">
+					<Text>Exit</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.240000000000000</PinX>
+						<PinY Unit="IN_F">3.812500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="38" UniqueID="{E6F89EAF-7030-41C1-8714-9EB8EE5CA81D}" Name="Command button.38" NameU="Command button.38" Master="24">
+					<Text>Options</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.010000000000000</PinX>
+						<PinY Unit="IN_F">4.713750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="61" UniqueID="{D580B08B-CDAB-4A06-8BAE-1B4790F9A65B}" Name="Sheet.61" NameU="Sheet.61">
+					<XForm>
+						<PinX Unit="IN_F">10.437204724409449</PinX>
+						<PinY Unit="IN_F">6.010039370078740</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="62" UniqueID="{C5E79B7C-A076-4DDB-B468-6AB4E18103D9}" Name="Sheet.62" NameU="Sheet.62">
+					<XForm>
+						<PinX Unit="IN_F">2.625295275590551</PinX>
+						<PinY Unit="IN_F">6.015501968503937</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="63" UniqueID="{B527A221-A06F-4D80-BE79-184F4CACB490}" Name="Command button.63" NameU="Command button.63" Master="24">
+					<Text>Save</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.010000000000000</PinX>
+						<PinY Unit="IN_F">3.833750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="83" UniqueID="{BD63FE4F-9123-42DD-85CC-30C879C39C47}" Name="Sheet.83" NameU="Sheet.83">
+					<Text>Favorites</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.375000000000000</PinX>
+						<PinY Unit="IN_F">4.125000000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="84" UniqueID="{8F148A38-290C-4EEE-AD4E-4E223EAC4DA8}" Name="Combo box.84" NameU="Combo box.84" Master="12">
+					<XForm>
+						<PinX Unit="IN_F">1.625000000000000</PinX>
+						<PinY Unit="IN_F">4.125000000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="93" UniqueID="{4898FB35-96AF-480A-8F9D-9FCA6B6A2215}" Name="Command button.93" NameU="Command button.93" Master="24">
+					<Text>Load</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.260000000000000</PinX>
+						<PinY Unit="IN_F">3.833750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="99" UniqueID="{58F444F0-2C73-4B49-9538-E23024B1510A}" Name="Command button.99" NameU="Command button.99" Master="24">
+					<Text>Insert blank</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.246061741968641</PinX>
+						<PinY Unit="IN_F">4.723750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="145" UniqueID="{61FBED62-151D-486D-A61A-0E5145C767F4}" Name="Group box" NameU="Group box" Master="6">
+					<Text>Palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.656250000000000</PinX>
+						<PinY Unit="IN_F">4.062500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="146" UniqueID="{A1947B2B-09AB-4049-95DD-02D40891C6A0}" Name="Annotation.155" NameU="Annotation.155" Master="21">
+					<Text>This will show recent files and
+ones you designate as presets</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.125000000000000</PinX>
+						<PinY Unit="IN_F">4.875000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="155" UniqueID="{C5F2ED2E-1E05-48FC-BCE6-704CF232BD54}" Name="Sheet.155" NameU="Sheet.155">
+					<Text>c:\shit\palettes\myproduct.pal</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.687500000000000</PinX>
+						<PinY Unit="IN_F">4.315290178571429</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="162" UniqueID="{EC903E22-BB0E-4CB9-BE44-3F5BC59DDDC9}" Name="Annotation.162" NameU="Annotation.162" Master="21">
+					<Text>Drop-down menu with:
+Save
+Save As...
+Save as preset</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.080000000000000</PinX>
+						<PinY Unit="IN_F">4.124999999999999</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="149" UniqueID="{65150202-B165-41D3-B85B-F842AFB2A9B6}" Name="Annotation.149" NameU="Annotation.149" Master="21">
+					<Text>Opens the "Palette options" dialog</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.125000000000000</PinX>
+						<PinY Unit="IN_F">5.500000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="165" UniqueID="{0D62CBB4-D79D-4741-AF6D-85ED0E49C5DB}" Name="Tab control (tabs).558" NameU="Tab control (tabs).558" Master="7">
+					<Text>Options</Text>
+					<XForm>
+						<PinX Unit="IN">3.261577292882376</PinX>
+						<PinY Unit="IN">7.221011904761898</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="9" Name="Arch" NameU="Arch">
+			<Layer IX="0">
+				<Name>Connector</Name>
+				<NameUniv>Connector</NameUniv>
+				<Visible>1</Visible>
+			</Layer>
+			<Shapes>
+				<Shape ID="1" UniqueID="{57604F9A-6B89-4809-9ECB-9C07DF66C18F}" Name="Blank form" NameU="Blank form" Master="2">
+					<Text>Easy Palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.250000000000000</PinX>
+						<PinY Unit="IN_F">5.503333333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{0C0091BA-5A8C-4B04-9997-035F994C10B9}" Name="Tab control (tabs).111" NameU="Tab control (tabs).111" Master="7">
+					<Text>Schemes</Text>
+					<XForm>
+						<PinX Unit="IN">3.479530367490232</PinX>
+						<PinY Unit="IN">7.815833333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{519B904B-05E8-4864-84DF-680C2964F701}" Name="Tab control (body)" NameU="Tab control (body)" Master="8">
+					<XForm>
+						<PinX Unit="IN_F">3.640625000000000</PinX>
+						<PinY Unit="IN_F">5.675208333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{E4DC2157-136C-401C-A8D3-E771347D682D}" Name="Circle" NameU="Circle" Master="3">
+					<XForm>
+						<PinX Unit="IN_F">3.203125000000000</PinX>
+						<PinY Unit="IN_F">6.300208333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{D86D2EA8-FF02-4F7F-8544-84D2284E0D6E}" Name="Slider (vertical)" NameU="Slider (vertical)" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">4.316250000006402</PinX>
+						<PinY Unit="IN_F">6.003333333383656</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="52" UniqueID="{B83212F5-3419-4BE2-B3D4-D027FD7AD5E6}" Name="Slider (vertical).41" NameU="Slider (vertical).41" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">4.628750000198501</PinX>
+						<PinY Unit="IN_F">6.003333333383656</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="81" UniqueID="{9170A53E-F407-404F-992E-429FA284B812}" Name="Tab control (tabs)" NameU="Tab control (tabs)" Master="7">
+					<Text>Color</Text>
+					<XForm>
+						<PinX Unit="IN">2.317752280163086</PinX>
+						<PinY Unit="IN_F">7.815833333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="87" UniqueID="{DCBED9AC-2CA8-4C59-BEC1-A916FE1C01A7}" Name="Tab control (tabs).124" NameU="Tab control (tabs).124" Master="7">
+					<Text>Palette</Text>
+					<XForm>
+						<PinX Unit="IN">4.040343613119138</PinX>
+						<PinY Unit="IN">7.815833333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="93" UniqueID="{D8B0E426-5CBD-4714-9A36-EA2FC847E1E3}" Name="Text box (single-line)" NameU="Text box (single-line)" Master="11">
+					<Text>Enter Text</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.093750000000000</PinX>
+						<PinY Unit="IN_F">7.634583333333328</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="96" UniqueID="{6F7EB33C-FE29-476A-A8B7-D24A67691F00}" Name="Combo box" NameU="Combo box" Master="12">
+					<Text>RGB</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.093750000000000</PinX>
+						<PinY Unit="IN_F">7.398333333333328</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="105" UniqueID="{3AEDAE83-3728-41FD-8C91-79BCE8F6DB5E}" Name="Status bar" NameU="Status bar" Master="13">
+					<Text>Status bar</Text>
+					<XForm>
+						<PinX Unit="IN">4.250000000000000</PinX>
+						<PinY Unit="IN">2.699583333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="109" UniqueID="{3BE682CD-65F5-4373-A593-D7A623319AAB}" Name="Window resize" NameU="Window resize" Master="14">
+					<XForm>
+						<PinX Unit="IN">6.400000000000000</PinX>
+						<PinY Unit="IN">2.699583333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="112" UniqueID="{FEE0A69C-EC99-4C72-A580-00C58E45BA06}" Name="Status bar divider line" NameU="Status bar divider line" Master="15">
+					<Text>Status divider</Text>
+					<XForm>
+						<PinX Unit="IN">2.715776777123046</PinX>
+						<PinY Unit="IN">2.814583333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="115" UniqueID="{E1B23CB7-E75A-4C74-8D54-A627ACC43B87}" Name="Sheet.115" NameU="Sheet.115">
+					<Text>Color Space</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.718750000000000</PinX>
+						<PinY Unit="IN_F">7.409583333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="116" UniqueID="{A75A34A6-17FB-4171-A9E1-6490A6C002E6}" Name="Windows buttons" NameU="Windows buttons" Master="16">
+					<XForm>
+						<PinX Unit="IN">6.335000000000000</PinX>
+						<PinY Unit="IN">8.182083333333328</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="121" UniqueID="{EF7E9C4E-19F2-46F8-94E9-3008E3016D67}" Name="Windows buttons.154" NameU="Windows buttons.154" Master="16">
+					<XForm>
+						<PinX Unit="IN">4.458750000000000</PinX>
+						<PinY Unit="IN_F">7.409583333333329</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="126" UniqueID="{AAAC1F15-4DB0-4FA2-99E9-31E6734A1873}" Name="Sheet.126" NameU="Sheet.126">
+					<Text>Name</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.718750000000000</PinX>
+						<PinY Unit="IN_F">7.628333333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="127" UniqueID="{5B1EFC1C-5C9F-407D-99A2-4FD66A7D0C32}" Name="Slider (horizontal)" NameU="Slider (horizontal)" Master="18">
+					<XForm>
+						<PinX Unit="IN_F">3.250000000000000</PinX>
+						<PinY Unit="IN_F">5.284583333333329</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="156" UniqueID="{DB77E52B-FBDA-4B20-B99A-EF6E46735EB3}" Name="Small icons" NameU="Small icons" Master="19">
+					<XForm>
+						<PinX Unit="IN">4.653750000000000</PinX>
+						<PinY Unit="IN">7.409583333333329</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Open Folder</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="158" UniqueID="{C4C19B1C-1333-4349-8984-1434E1EAB834}" Name="Slider (vertical).228" NameU="Slider (vertical).228" Master="4">
+					<XForm>
+						<PinX Unit="IN_F">4.933749999801501</PinX>
+						<PinY Unit="IN_F">6.003333333350104</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="187" UniqueID="{362AE9E7-48AC-402B-8DA4-D04C4BDD891D}" Name="Combo box.308" NameU="Combo box.308" Master="12">
+					<Text>Color wheel</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.000000000000001</PinX>
+						<PinY Unit="IN_F">3.804583333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="196" UniqueID="{D2A4CBED-ABB8-4ED1-B5DE-D077D2FE88B7}" Name="Small icons.284" NameU="Small icons.284" Master="19">
+					<XForm>
+						<PinX Unit="IN">2.580000000000001</PinX>
+						<PinY Unit="IN_F">3.784583333333329</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Open Folder</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="198" UniqueID="{6AD18AF8-C5B7-4F04-BEAA-FA186CC27773}" Name="Small icons.286" NameU="Small icons.286" Master="19">
+					<XForm>
+						<PinX Unit="IN">2.330000000000001</PinX>
+						<PinY Unit="IN_F">3.784583333333329</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Closed Folder</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="200" UniqueID="{E86D2781-F127-464D-B6C7-75D9512EA072}" Name="Group box" NameU="Group box" Master="6">
+					<Text>View</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.625000000000000</PinX>
+						<PinY Unit="IN_F">3.815833333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="201" UniqueID="{7A0A8431-A0B6-4AB7-A2E8-21A5627F59D9}" Name="Small icons.289" NameU="Small icons.289" Master="19">
+					<XForm>
+						<PinX Unit="IN">2.830000000000001</PinX>
+						<PinY Unit="IN_F">3.784583333333329</PinY>
+					</XForm>
+					<Prop ID="1" Name="Icon" NameU="Icon">
+						<Value Unit="STR">Document</Value>
+						<Label>Icon</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="203" UniqueID="{C7190D03-2435-44E5-B692-F85BE1E0ED1A}" Name="Text box (single-line).72" NameU="Text box (single-line).72" Master="11">
+					<Text>#FFFF88</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.187500000000000</PinX>
+						<PinY Unit="IN_F">4.642083333333328</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="206" UniqueID="{7F9BBA66-7BA1-48C5-A6CF-B2051B64063E}" Name="Sheet.206" NameU="Sheet.206">
+					<Text>HTML RGB</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.750000000000000</PinX>
+						<PinY Unit="IN_F">4.617083333333328</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="207" UniqueID="{43457AF3-2D04-4360-B42F-FC10EC69E378}" Name="Sheet.207" NameU="Sheet.207">
+					<Text>R</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.375000000000000</PinX>
+						<PinY Unit="IN_F">7.128333333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="208" UniqueID="{4D152E48-BA7F-41C9-A008-025FBFF691FB}" Name="Sheet.208" NameU="Sheet.208">
+					<Text>G</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.718750000000000</PinX>
+						<PinY Unit="IN_F">7.128333333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="209" UniqueID="{9459B35B-607E-4363-B5B0-501789EFAFFF}" Name="Sheet.209" NameU="Sheet.209">
+					<Text>B</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.031250000000000</PinX>
+						<PinY Unit="IN_F">7.128333333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="210" UniqueID="{2EFF54E2-081D-4E85-A3DF-7549A396CFA8}" Name="Text box (single-line).88" NameU="Text box (single-line).88" Master="11">
+					<Text>C 85 M 40 Y 65 K90</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.180964589793187</PinX>
+						<PinY Unit="IN_F">4.373333333333328</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="213" UniqueID="{F65B1EB7-2C82-46E2-90A5-A9BF25D5C198}" Name="Sheet.213" NameU="Sheet.213">
+					<Text>CMYK</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.750000000000000</PinX>
+						<PinY Unit="IN_F">4.367083333333328</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="214" UniqueID="{CDC48852-D306-444D-A628-BA6762A56268}" Name="Sheet.214" NameU="Sheet.214">
+					<XForm>
+						<PinX Unit="IN_F">4.281250000000000</PinX>
+						<PinY Unit="IN_F">3.222083333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="215" UniqueID="{D43CB74C-ABD3-495E-B88C-1E24347FCE18}" Name="Rectangle.99" NameU="Rectangle.99" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">5.812500000000000</PinX>
+						<PinY Unit="IN_F">6.690833333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="216" UniqueID="{EC9A2444-A87F-4D57-8DA6-5230640106D2}" Name="Rectangle.211" NameU="Rectangle.211" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">5.812500000000000</PinX>
+						<PinY Unit="IN_F">7.190833333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="217" UniqueID="{978101FF-08E9-4915-8E4D-5D8BDAA5D687}" Name="Command button.93" NameU="Command button.93" Master="24">
+					<Text>Add to palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.799549519678603</PinX>
+						<PinY Unit="IN_F">5.294583333333328</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="223" UniqueID="{5795CDA1-C984-4FCC-ADE5-AF59534F0563}" Name="Group box.77" NameU="Group box.77" Master="6">
+					<Text>Selected color</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.812500000000000</PinX>
+						<PinY Unit="IN_F">5.706458333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="224" UniqueID="{E0E9B714-EA02-4B56-9C56-C2A3A7BEDFBA}" Name="Sheet.224" NameU="Sheet.224">
+					<Text>Old</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.875000000000000</PinX>
+						<PinY Unit="IN_F">7.565833333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="225" UniqueID="{9D65E2B8-FF79-4E8C-8628-836FAF1D11C0}" Name="Sheet.225" NameU="Sheet.225">
+					<Text>New</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.875000000000000</PinX>
+						<PinY Unit="IN_F">6.315833333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="226" UniqueID="{8A506965-9082-4B12-A1F7-04B20A73022D}" Name="Sheet.226" NameU="Sheet.226">
+					<Text>R:	192
+G:	 43
+B:	  0</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.843750000000000</PinX>
+						<PinY Unit="IN_F">5.237708333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="227" UniqueID="{CBF6094B-35FA-4119-A59F-D86127BE700D}" Name="Command button.81" NameU="Command button.81" Master="24">
+					<Text>OK</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.822500000000000</PinX>
+						<PinY Unit="IN_F">4.075833333333328</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="233" UniqueID="{C5732046-55C5-499B-9BFC-1164598EADCE}" Name="Windows buttons.163" NameU="Windows buttons.163" Master="16">
+					<XForm>
+						<PinX Unit="IN">6.105000000000000</PinX>
+						<PinY Unit="IN">8.182083333333328</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Minimize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="238" UniqueID="{B5095932-F5E3-4E96-96ED-81DB4B4F94FC}" Name="Windows buttons.198" NameU="Windows buttons.198" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.875000000000000</PinX>
+						<PinY Unit="IN">8.182083333333328</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Maximize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="243" UniqueID="{73D98123-FB45-47D3-937C-D5805400F6F9}" Name="Tab control (tabs).217" NameU="Tab control (tabs).217" Master="7">
+					<Text>Analogies</Text>
+					<XForm>
+						<PinX Unit="IN">2.853096699498046</PinX>
+						<PinY Unit="IN">7.815833333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="249" UniqueID="{0E8F7059-F2B4-4951-B811-880CDFAF890E}" Name="Command button" NameU="Command button" Master="24">
+					<Text>Exit</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.822500000000000</PinX>
+						<PinY Unit="IN_F">3.815833333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="255" UniqueID="{05518A82-B9FE-4E6E-AB0E-0DA7246E6B6C}" Name="Sheet.255" NameU="Sheet.255">
+					<Text>R, G</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.468750000000000</PinX>
+						<PinY Unit="IN_F">7.097083333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="256" UniqueID="{E5FCA7BC-203E-4B66-B01B-06480CB7EF50}" Name="Sheet.256" NameU="Sheet.256">
+					<Text>B</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.468750000000000</PinX>
+						<PinY Unit="IN_F">5.472083333333329</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="257" UniqueID="{4ABE198F-E0F8-496F-BF4A-71B71AF5F8F3}" Name="Command button.201" NameU="Command button.201" Master="24">
+					<Text>Copy</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.695000000000000</PinX>
+						<PinY Unit="IN_F">4.638333333333328</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="263" UniqueID="{39C9AF8E-7BCC-4D33-AF9A-76FAA1806C91}" Name="Command button.400" NameU="Command button.400" Master="24">
+					<Text>Copy</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.695000000000000</PinX>
+						<PinY Unit="IN_F">4.388333333333328</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="272" UniqueID="{7CC6B0FB-ED94-4C90-A254-E05D421C9AF2}" Name="Rectangle.272" NameU="Rectangle.272" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">4.265625000000000</PinX>
+						<PinY Unit="IN_F">5.500000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="269" UniqueID="{C4343546-CA91-4F2E-9999-1E97015934B9}" Name="Rectangle" NameU="Rectangle" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">3.656250000000000</PinX>
+						<PinY Unit="IN_F">5.781250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="270" UniqueID="{3A83C3C9-8878-4667-B8E5-41ADA310376A}" Name="Rectangle.270" NameU="Rectangle.270" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">5.796875000000000</PinX>
+						<PinY Unit="IN_F">5.750000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="271" UniqueID="{4F705788-45F7-4C27-9732-DCA404AD16BB}" Name="Rectangle.271" NameU="Rectangle.271" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">4.234375000000000</PinX>
+						<PinY Unit="IN_F">3.187500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="273" UniqueID="{D20BCB15-BE6F-4F94-A923-2D415D75059C}" Name="Dynamic connector" NameU="Dynamic connector" Master="30">
+					<XForm>
+						<PinX Unit="IN_F">3.328125000000000</PinX>
+						<PinY Unit="IN_F">8.375000000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="274" UniqueID="{0F9AB5DC-91B3-4428-885D-B4275B11FCF8}" Name="Rectangle.274" NameU="Rectangle.274" Master="0">
+					<Text>Tab pane
+sizes with main window</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.000000000000000</PinX>
+						<PinY Unit="IN_F">9.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="275" UniqueID="{1E4E8263-6066-40D7-88DB-DE1D39F0E1E3}" Name="Rectangle.275" NameU="Rectangle.275" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">3.656250000000000</PinX>
+						<PinY Unit="IN_F">5.687500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="276" UniqueID="{80A58163-131B-4FFE-B56E-71DC3D1C5465}" Name="Dynamic connector.276" NameU="Dynamic connector.276" Master="30">
+					<XForm>
+						<PinX Unit="IN_F">2.437500000000000</PinX>
+						<PinY Unit="IN_F">8.187500000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="277" UniqueID="{C10E6712-A277-4876-9D16-C760D3F3A25E}" Name="Rectangle.277" NameU="Rectangle.277" Master="0">
+					<Text>Tab content
+sizes with tab frame</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.875000000000001</PinX>
+						<PinY Unit="IN_F">8.875000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="278" UniqueID="{082F4842-B4A2-46DB-9E25-6AF08AC78718}" Name="Dynamic connector.278" NameU="Dynamic connector.278" Master="30">
+					<XForm>
+						<PinX Unit="IN_F">4.320312499999999</PinX>
+						<PinY Unit="IN_F">8.593750000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="279" UniqueID="{79D3760F-390B-44CE-B8DC-ADCEE54B6800}" Name="Rectangle.279" NameU="Rectangle.279" Master="0">
+					<Text>Main window</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.374999999999998</PinX>
+						<PinY Unit="IN_F">9.000000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="280" UniqueID="{5AA318C8-4681-4510-8AFE-7E73D8ABD6BC}" Name="Dynamic connector.280" NameU="Dynamic connector.280" Master="30">
+					<XForm>
+						<PinX Unit="IN_F">6.929687500000000</PinX>
+						<PinY Unit="IN_F">6.156250000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="281" UniqueID="{42701992-00F1-4A39-9BDB-80D521F29D8A}" Name="Rectangle.281" NameU="Rectangle.281" Master="0">
+					<Text>Selection pane
+Sizes with main window</Text>
+					<XForm>
+						<PinX Unit="IN_F">7.484375000000001</PinX>
+						<PinY Unit="IN_F">6.843750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="282" UniqueID="{8390C1DD-18BC-4E1C-9F23-F6985B96D7BF}" Name="Dynamic connector.282" NameU="Dynamic connector.282" Master="30">
+					<XForm>
+						<PinX Unit="IN_F">6.867187500000000</PinX>
+						<PinY Unit="IN_F">3.406250000000000</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember>0</LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="283" UniqueID="{6EAC90AF-44F7-49CB-B09D-48C2182059D4}" Name="Rectangle.283" NameU="Rectangle.283" Master="0">
+					<Text>Optional Palette pane sizes with main window</Text>
+					<XForm>
+						<PinX Unit="IN_F">7.359375000000000</PinX>
+						<PinY Unit="IN_F">3.906250000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="284" UniqueID="{E0FA498E-7418-4480-8346-CDBD8DBD5440}" Name="Sheet.284" NameU="Sheet.284">
+					<Text>Each "Pane" gets a splitter bar.</Text>
+					<XForm>
+						<PinX Unit="IN_F">6.474206349206350</PinX>
+						<PinY Unit="IN_F">8.736111111111111</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="8" Name="Palette Options" NameU="Palette Options">
+			<Shapes>
+				<Shape ID="1" UniqueID="{FF09CCCE-0551-4A62-BC7E-81A2CCE36C2A}" Name="Blank form" NameU="Blank form" Master="2">
+					<Text>Palette options</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.031250000000000</PinX>
+						<PinY Unit="IN_F">8.718750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{7C501E25-A271-4DF3-BAA4-82A8C2D1C40B}" Name="Tab control (body)" NameU="Tab control (body)" Master="8">
+					<XForm>
+						<PinX Unit="IN_F">3.031250000000000</PinX>
+						<PinY Unit="IN_F">8.712500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{D7DD93DA-8651-4BC5-89A2-30F2317BC78E}" Name="Tab control (tabs)" NameU="Tab control (tabs)" Master="7">
+					<Text>View</Text>
+					<XForm>
+						<PinX Unit="IN">1.276410498546875</PinX>
+						<PinY Unit="IN_F">10.300000000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{ACDC117B-BF82-4B37-8ADE-59DC93C5E852}" Name="Command button" NameU="Command button" Master="24">
+					<Text>Ok</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.833750000000000</PinX>
+						<PinY Unit="IN_F">6.885000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="28" UniqueID="{37102B39-6314-4F52-B448-8ECE2D9AA52A}" Name="Group box" NameU="Group box" Master="6">
+					<Text>Grid</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.031250000000000</PinX>
+						<PinY Unit="IN_F">9.718750000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="29" UniqueID="{B821E263-44F0-457B-B595-40022B465616}" Name="Radio button" NameU="Radio button" Master="31">
+					<Text>Fixed-width</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.250000000000000</PinX>
+						<PinY Unit="IN_F">9.690000000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="34" UniqueID="{C5834BF0-3216-4944-AF10-47CB65F4C98B}" Name="Text box (single-line)" NameU="Text box (single-line)" Master="11">
+					<Text>16</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.156250000000000</PinX>
+						<PinY Unit="IN_F">9.475000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="37" UniqueID="{28BEE8C0-8C32-44B2-8D38-3835CC803AB5}" Name="Sheet.37" NameU="Sheet.37">
+					<Text>Width</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.250000000000000</PinX>
+						<PinY Unit="IN_F">9.465959821428571</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="38" UniqueID="{757C33E5-6A8E-4288-BCAE-8D9493E25E78}" Name="Radio button.38" NameU="Radio button.38" Master="31">
+					<Text>Variable-width</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.250000000000000</PinX>
+						<PinY Unit="IN_F">9.934999999999999</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="57" UniqueID="{2914B3A4-72F6-42EF-A3C1-2BED6F571011}" Name="Slider (horizontal)" NameU="Slider (horizontal)" Master="18">
+					<XForm>
+						<PinX Unit="IN_F">3.406250000000000</PinX>
+						<PinY Unit="IN_F">8.625000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="86" UniqueID="{ADA6E70D-6323-4F1F-8EE6-9C38B3078053}" Name="Text box (single-line).86" NameU="Text box (single-line).86" Master="11">
+					<Text>16</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.000000000000000</PinX>
+						<PinY Unit="IN_F">8.650000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="89" UniqueID="{1CCA33E8-0573-4F8B-9FB9-64EBE5F19017}" Name="Slider (horizontal).89" NameU="Slider (horizontal).89" Master="18">
+					<XForm>
+						<PinX Unit="IN_F">3.406250000000000</PinX>
+						<PinY Unit="IN_F">8.250000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="118" UniqueID="{9738FB86-D1D0-4D2B-9FD9-841BB3908456}" Name="Text box (single-line).118" NameU="Text box (single-line).118" Master="11">
+					<Text>16</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.000000000000000</PinX>
+						<PinY Unit="IN_F">8.275000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="121" UniqueID="{7F99E967-E3D0-42D0-AB9E-D8228AE0245C}" Name="Sheet.121" NameU="Sheet.121">
+					<Text>Width</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.562500000000000</PinX>
+						<PinY Unit="IN_F">8.625000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="122" UniqueID="{AC1FD1CD-91D0-4126-8E18-D36E873845EB}" Name="Sheet.122" NameU="Sheet.122">
+					<Text>Height</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.562500000000000</PinX>
+						<PinY Unit="IN_F">8.250000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="123" UniqueID="{656241CC-567A-4C10-95B6-A0639F799497}" Name="Slider (horizontal).123" NameU="Slider (horizontal).123" Master="18">
+					<XForm>
+						<PinX Unit="IN_F">3.406250000000000</PinX>
+						<PinY Unit="IN_F">7.875000000000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="152" UniqueID="{271A02DE-57D7-44A5-8BB2-BE12E268511F}" Name="Text box (single-line).152" NameU="Text box (single-line).152" Master="11">
+					<Text>1</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.000000000000000</PinX>
+						<PinY Unit="IN_F">7.900000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="155" UniqueID="{4E430A8F-95BA-4859-BA97-D3ED9BB22FCE}" Name="Sheet.155" NameU="Sheet.155">
+					<Text>Border</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.562500000000000</PinX>
+						<PinY Unit="IN_F">7.875000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="156" UniqueID="{E6D2A06E-051B-4BAD-882E-670DA69D1812}" Name="Slider (horizontal).156" NameU="Slider (horizontal).156" Master="18">
+					<XForm>
+						<PinX Unit="IN_F">3.406250000000000</PinX>
+						<PinY Unit="IN_F">7.499999999999999</PinY>
+					</XForm>
+					<Prop ID="1" Name="Ticks" NameU="Ticks">
+						<Value Unit="STR">5</Value>
+						<Label>Number of Ticks</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="185" UniqueID="{24C494AD-B9C1-40E8-B469-AFC50248B942}" Name="Text box (single-line).185" NameU="Text box (single-line).185" Master="11">
+					<Text>3</Text>
+					<XForm>
+						<PinX Unit="IN_F">2.000000000000000</PinX>
+						<PinY Unit="IN_F">7.525000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="188" UniqueID="{AC3AC67E-3838-4E30-871A-3A6EB7AA45E0}" Name="Sheet.188" NameU="Sheet.188">
+					<Text>Spacing</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.562500000000000</PinX>
+						<PinY Unit="IN_F">7.499999999999999</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="191" UniqueID="{A281FB8E-E391-4B14-B66C-1F6A27CD24A0}" Name="Check box" NameU="Check box" Master="27">
+					<Text>Show flags for industry colors</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.250000000000000</PinX>
+						<PinY Unit="IN_F">8.940000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="43" UniqueID="{E2FCDCC3-BEDE-4C46-BF0C-595613FEBA90}" Name="Group box.43" NameU="Group box.43" Master="6">
+					<Text>Swatches</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.031250000000000</PinX>
+						<PinY Unit="IN_F">8.187500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="197" UniqueID="{54D108FD-D08E-49BD-B54E-B8E833BA0050}" Name="Command button.197" NameU="Command button.197" Master="24">
+					<Text>Save as defaults</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.352693974634657</PinX>
+						<PinY Unit="IN_F">9.990000000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="203" UniqueID="{31F2729F-AE2B-473C-9193-E8E5CDB936F3}" Name="Command button.203" NameU="Command button.203" Master="24">
+					<Text>Cancel</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.615000000000000</PinX>
+						<PinY Unit="IN_F">6.885000000000000</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="10" Name="Options" NameU="Options">
+			<Shapes>
+				<Shape ID="1" UniqueID="{A87CC76C-3AEE-4F10-AD50-B43CDFD96E70}" Name="Blank form.166" NameU="Blank form.166" Master="2">
+					<Text>Easy Palette</Text>
+					<XForm>
+						<PinX Unit="IN_F">3.335345982142833</PinX>
+						<PinY Unit="IN_F">5.503333333333327</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{4A10A098-5842-4510-91EA-3E6E60AB30B8}" Name="Tab control (body).187" NameU="Tab control (body).187" Master="8">
+					<XForm>
+						<PinX Unit="IN_F">2.710345982142833</PinX>
+						<PinY Unit="IN_F">5.409583333333327</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{A8F8B8CC-D8EF-4626-B4F2-D02DC2928A88}" Name="Status bar.220" NameU="Status bar.220" Master="13">
+					<Text>Status bar</Text>
+					<XForm>
+						<PinX Unit="IN">3.335345982142833</PinX>
+						<PinY Unit="IN">3.284404761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{785EADEA-2EC9-44BE-A4D5-513BB8982AA7}" Name="Window resize.224" NameU="Window resize.224" Master="14">
+					<XForm>
+						<PinX Unit="IN">5.860345982142833</PinX>
+						<PinY Unit="IN">3.284404761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{D8C56E80-5646-49CA-8DA0-F75883DAED9B}" Name="Status bar divider line.227" NameU="Status bar divider line.227" Master="15">
+					<Text>Status divider</Text>
+					<XForm>
+						<PinX Unit="IN">1.426122759265880</PinX>
+						<PinY Unit="IN">3.399404761904756</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="26" UniqueID="{AFF3ADBE-1421-4724-9304-4BCB504B6454}" Name="Windows buttons.230" NameU="Windows buttons.230" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.795345982142833</PinX>
+						<PinY Unit="IN">7.597261904761898</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Close</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{C0528023-90E0-4F08-AB1A-45D77DAF7B15}" Name="Windows buttons.306" NameU="Windows buttons.306" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.565345982142834</PinX>
+						<PinY Unit="IN">7.597261904761898</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Minimize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="36" UniqueID="{32788FD4-A900-41AF-8E07-666A33CA30FF}" Name="Windows buttons.311" NameU="Windows buttons.311" Master="16">
+					<XForm>
+						<PinX Unit="IN">5.335345982142833</PinX>
+						<PinY Unit="IN">7.597261904761898</PinY>
+					</XForm>
+					<Prop ID="1" Name="subtype" NameU="subtype">
+						<Value Unit="STR">Maximize</Value>
+						<Label>Button Type</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="41" UniqueID="{BA3AA73B-1B5B-4DC7-AC98-33234175B3E0}" Name="Rectangle.99" NameU="Rectangle.99" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">5.272845982142833</PinX>
+						<PinY Unit="IN_F">6.043526785714287</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="42" UniqueID="{E47B7720-7E18-4D24-B948-5A6032B101A7}" Name="Rectangle.211" NameU="Rectangle.211" Master="0">
+					<XForm>
+						<PinX Unit="IN_F">5.272845982142833</PinX>
+						<PinY Unit="IN_F">6.565848214285714</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="43" UniqueID="{2F8BC18C-1EE5-4E9F-B33E-93554944E515}" Name="Group box.77" NameU="Group box.77" Master="6">
+					<Text>Selected color</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.272845982142833</PinX>
+						<PinY Unit="IN_F">5.390625000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="44" UniqueID="{1354B412-98DE-46B6-B6BD-E8C5F1C2EE36}" Name="Sheet.44" NameU="Sheet.44">
+					<Text>Old</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.335345982142833</PinX>
+						<PinY Unit="IN_F">6.957589285714287</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="45" UniqueID="{0ECE68EF-E91E-4E7B-8DB1-36C2B83EA193}" Name="Sheet.45" NameU="Sheet.45">
+					<Text>New</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.335345982142833</PinX>
+						<PinY Unit="IN_F">5.651785714285714</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="46" UniqueID="{A53295FD-1D91-4231-8805-D72154E48166}" Name="Sheet.46" NameU="Sheet.46">
+					<Text>R:	192
+G:	 43
+B:	  0</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.304095982142833</PinX>
+						<PinY Unit="IN_F">4.525530133928571</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="47" UniqueID="{DF66786C-23EB-4B35-836D-8B0031715179}" Name="Tab control (tabs).214" NameU="Tab control (tabs).214" Master="7">
+					<Text>Color</Text>
+					<XForm>
+						<PinX Unit="IN">1.028098262305919</PinX>
+						<PinY Unit="IN_F">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="53" UniqueID="{618C0AA6-0C8A-46C4-AF30-94D4FD2B1605}" Name="Tab control (tabs).388" NameU="Tab control (tabs).388" Master="7">
+					<Text>Analogies</Text>
+					<XForm>
+						<PinX Unit="IN">1.563442681640880</PinX>
+						<PinY Unit="IN">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="59" UniqueID="{AA56F93A-8DF7-404D-9FBB-7FDFA7CE2D0E}" Name="Tab control (tabs).193" NameU="Tab control (tabs).193" Master="7">
+					<Text>Schemes</Text>
+					<XForm>
+						<PinX Unit="IN">2.189876349633066</PinX>
+						<PinY Unit="IN">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="65" UniqueID="{7DBD87D9-8708-46F8-8ED1-F312718701AD}" Name="Tab control (tabs).235" NameU="Tab control (tabs).235" Master="7">
+					<Text>Palette</Text>
+					<XForm>
+						<PinX Unit="IN">2.750689595261971</PinX>
+						<PinY Unit="IN">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="71" UniqueID="{31CD860F-8001-4493-A59C-4C9956032F85}" Name="Command button.81" NameU="Command button.81" Master="24">
+					<Text>OK</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.289654017857135</PinX>
+						<PinY Unit="IN_F">4.072500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="77" UniqueID="{56BC1190-A567-431D-9AB0-00E244C8B5B4}" Name="Command button" NameU="Command button" Master="24">
+					<Text>Exit</Text>
+					<XForm>
+						<PinX Unit="IN_F">5.289654017857135</PinX>
+						<PinY Unit="IN_F">3.812500000000000</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="129" UniqueID="{6FE509C0-C6C8-43A2-ABCE-E05B68BBBEBA}" Name="Tab control (tabs).558" NameU="Tab control (tabs).558" Master="7">
+					<Text>Options</Text>
+					<XForm>
+						<PinX Unit="IN">3.281231310739510</PinX>
+						<PinY Unit="IN">7.231011904761898</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="83" UniqueID="{1A2A3D28-D00E-45F6-BF36-E69A1C0EFC47}" Name="Check box.447" NameU="Check box.447" Master="27">
+					<Text>Show palette always</Text>
+					<XForm>
+						<PinX Unit="IN_F">1.000000000000000</PinX>
+						<PinY Unit="IN_F">6.935000000000001</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="89" UniqueID="{ABD8EE97-D922-4CB9-B223-614581EDB652}" Name="Command button.89" NameU="Command button.89" Master="24">
+					<Text>Apply</Text>
+					<XForm>
+						<PinX Unit="IN_F">4.135000000000000</PinX>
+						<PinY Unit="IN_F">3.760000000000000</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
