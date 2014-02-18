@@ -1,0 +1,17 @@
+vertical
+{
+	(spacing);
+	*IDC_LIST1, IDC_SCRIPT;
+	(spacing);
+};
+
+horizontal
+{
+	(spacing);
+	{
+	*IDC_SCRIPT(60%);
+	*IDC_LIST1;
+	};
+	(spacing);
+};
+
